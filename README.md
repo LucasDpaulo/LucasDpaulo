@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="left">Lucas D. Paulo</h1>
 
-<!--
-**LucasDpaulo/LucasDpaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">A bit about me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Hey! I'm Lucas. Thanks for dropping by. I love the world of open source, Linux, and I'm constantly pushing to level up my skills. I treat this GitHub as my digital garden-growing my skills in public and connecting with the community.<br><br>Previously, I had the chance to collaborate with my team Gnomon on some cool map for universities<br> solutions.</p>
+
+###
+
+<h2 align="left">What I'm hacking on</h2>
+
+###
+
+<p align="left">I have a few exciting projects cooking in private repositories at the moment. Progress is steady, and I plan to release them as soon as I have a working prototype. For now, they are my personal playground for learning new tech.</p>
+
+###
+
+<h2 align="left">The vibe</h2>
+
+###
+
+<p align="left">Solve problems, listen to Frank Ocean, stay curious as a Brasileiro dev, and enjoy the ride ☕.</p>
+
+###
+
+<div align="left">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV5emptOXllMXB3ZjRqYm1rcXhzeXRzMHRwZHZ4b2V1NmhjbDdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcBVW9S9avoti/giphy.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucasbarbosadev42/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
