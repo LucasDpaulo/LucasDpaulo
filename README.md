@@ -1,4 +1,4 @@
-<h3 align="left">Lucas D. Paulo</h3>
+<h2 align="left">Lucas D. Paulo</h2>
 
 ###
 
