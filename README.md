@@ -1,8 +1,8 @@
-<h1 align="left">Lucas D. Paulo</h1>
+<h3 align="left">Lucas D. Paulo</h3>
 
 ###
 
-<h2 align="left">A bit about me</h2>
+<h3 align="left">A bit about me</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">What I'm hacking on</h2>
+<h3 align="left">What I'm hacking on</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">The vibe</h2>
+<h3 align="left">The vibe</h3>
 
 ###
 
