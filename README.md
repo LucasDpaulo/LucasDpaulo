@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hey! I'm Lucas. Thanks for dropping by. I love the world of open source, Linux, and I'm constantly pushing to level up my skills. I treat this GitHub as my digital garden-growing my skills in public and connecting with the community.<br><br>Previously, I had the chance to collaborate with my team Gnomon on some cool map for universities<br> solutions.</p>
+<p align="left">Hey! I'm Lucas. Thanks for dropping by. I love the world of open source, Linux, and I'm constantly pushing to level up my skills. I treat this GitHub as my digital garden-growing my skills in public and connecting with the community.<br><br>Previously, I had the chance to collaborate with my team Gnomon on some cool map for universities<br> solutions. Project link: https://white-gate-478903-h3.web.app/</p>
 
 ###
 
