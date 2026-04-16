@@ -1,7 +1,7 @@
 <h2 align="left">Lucas D. Paulo</h2>
 
 <p align="left">
-  <strong>Software Engineer</strong> · AI-Driven Development · Automation · Python & TypeScript
+  <strong>Software Engineer</strong> · Automation · Python & TypeScript
 </p>
 
 ###
