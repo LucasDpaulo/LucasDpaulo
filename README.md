@@ -10,9 +10,6 @@
   Engenheiro de Software focado em IA e automação. Minha abordagem prioriza a integração de ferramentas de inteligência artificial no workflow para acelerar o desenvolvimento e antecipar tendências tecnológicas. Entusiasta de Open Source e Linux, utilizo o GitHub como meu laboratório público para colaborar com a comunidade e construir soluções que resolvem problemas reais com eficiência e inovação.
 </p>
 
-<div align="left">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV5emptOXllMXB3ZjRqYm1rcXhzeXRzMHRwZHZ4b2V1NmhjbDdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcBVW9S9avoti/giphy.gif" />
-</div>
 
 ###
 
@@ -69,3 +66,7 @@ API para extração e consolidação de dados com disparo automatizado de relat�
 ###
 
 <p align="left"><em>Resolver problemas, ouvir Frank Ocean, e seguir curioso ☕</em></p>
+
+<div align="left">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV5emptOXllMXB3ZjRqYm1rcXhzeXRzMHRwZHZ4b2V1NmhjbDdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcBVW9S9avoti/giphy.gif" />
+</div>
