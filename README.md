@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Engenheiro de software com IA no centro do workflow. Construo APIs, automações e sistemas que resolvem problemas reais, usando ferramentas de ponta pra desenvolver mais rápido e testar o que há de novo antes de virar mainstream. Apaixonado por open source e Linux, tratando o GitHub como espaço pra crescer em público e se conectar com a comunidade dev.
+  Engenheiro de Software focado em IA e automação. Minha abordagem prioriza a integração de ferramentas de inteligência artificial no workflow para acelerar o desenvolvimento e antecipar tendências tecnológicas. Entusiasta de Open Source e Linux, utilizo o GitHub como meu laboratório público para colaborar com a comunidade e construir soluções que resolvem problemas reais com eficiência e inovação.
 </p>
 
 <div align="left">
@@ -50,7 +50,6 @@ API para extração e consolidação de dados com disparo automatizado de relat�
 <h3 align="left">GitHub Stats</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasDpaulo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="150" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDpaulo&theme=dark&hide_border=true" height="150" alt="streak" />
 </div>
 
