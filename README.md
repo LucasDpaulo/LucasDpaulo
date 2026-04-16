@@ -22,7 +22,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
@@ -30,17 +33,17 @@
 
 <h3 align="left">Projetos em destaque</h3>
 
+**🗺️ [Gnomon — Mapeamento Indoor](https://github.com/LucasDpaulo/Gnomon)** ⭐
+Startup participante do Startup Day. Sistema de wayfinding para ambientes internos — eventos, universidades e empresas. PWA com mapas interativos e busca por pontos de interesse.
+`PWA` `JavaScript` `Startup`
+
 **🤖 [Aurora — Agentes de IA](https://github.com/LucasDpaulo/agente-helena)**
-Agentes inteligentes para atendimento via WhatsApp. Projeto voltado para contabilidade com a Continuum Inteligência Contábil.
+Agentes inteligentes para atendimento automatizado via WhatsApp. Integração com IA para fluxos conversacionais e suporte ao cliente.
 `IA` `WhatsApp` `Automação`
 
 **⚡ [API Automação SaaS](https://github.com/LucasDpaulo/API_BUSCA_LUCAS)**
-API para extração de dados Hinova com disparo automático via Quepasa. Monitoramento de ativos, vendas e saúde financeira com relatórios via WhatsApp.
+API para extração e consolidação de dados com disparo automatizado de relatórios. Monitoramento de ativos, vendas e saúde financeira.
 `Python` `API REST` `SaaS`
-
-**🗺️ [Gnomon — Wayfinding Indoor](https://github.com/LucasDpaulo/Gnomon)**
-PWA de navegação para ambientes internos — campi, hospitais, centros de eventos. Mapas interativos com busca por pontos de interesse.
-`PWA` `JavaScript` `Collab`
 
 ###
 
@@ -59,7 +62,7 @@ PWA de navegação para ambientes internos — campi, hospitais, centros de even
   <a href="https://www.linkedin.com/in/lucasbarbosadev42/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rms.empreendimento@gmail.com">
+  <a href="mailto:lucasb.hiago87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
