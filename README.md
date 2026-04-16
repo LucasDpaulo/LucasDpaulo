@@ -1,13 +1,13 @@
 <h2 align="left">Lucas D. Paulo</h2>
 
 <p align="left">
-  <strong>Software Engineer</strong> · Python & TypeScript · AI Agents & Automation
+  <strong>Software Engineer</strong> · AI-Driven Development · Python & TypeScript
 </p>
 
 ###
 
 <p align="left">
-  Engenheiro de software focado em automação e agentes de IA. Construo sistemas que resolvem problemas reais — desde APIs SaaS até agentes inteligentes para WhatsApp. Trato o GitHub como meu laboratório público.
+  Engenheiro de software construindo com IA no centro do workflow. Uso ferramentas de ponta para desenvolver mais rápido e criar soluções que funcionam. Sempre testando o que há de novo antes de virar mainstream.
 </p>
 
 <div align="left">
@@ -33,11 +33,11 @@
 
 <h3 align="left">Projetos em destaque</h3>
 
-**🗺️ [Gnomon — Mapeamento Indoor](https://github.com/LucasDpaulo/Gnomon)** ⭐
-Startup participante do Startup Day. Sistema de wayfinding para ambientes internos — eventos, universidades e empresas. PWA com mapas interativos e busca por pontos de interesse.
+**🗺️ [Gnomon - Mapeamento Indoor](https://github.com/LucasDpaulo/Gnomon)** ⭐
+Startup participante do Startup Day. Sistema de wayfinding para ambientes internos voltado para eventos, universidades e empresas. PWA com mapas interativos e busca por pontos de interesse.
 `PWA` `JavaScript` `Startup`
 
-**🤖 [Aurora — Agentes de IA](https://github.com/LucasDpaulo/agente-helena)**
+**🤖 [Aurora - Agentes de IA](https://github.com/LucasDpaulo/agente-helena)**
 Agentes inteligentes para atendimento automatizado via WhatsApp. Integração com IA para fluxos conversacionais e suporte ao cliente.
 `IA` `WhatsApp` `Automação`
 
