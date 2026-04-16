@@ -1,13 +1,13 @@
 <h2 align="left">Lucas D. Paulo</h2>
 
 <p align="left">
-  <strong>Software Engineer</strong> · AI-Driven Development · Python & TypeScript
+  <strong>Software Engineer</strong> · AI-Driven Development · Automation · Python & TypeScript
 </p>
 
 ###
 
 <p align="left">
-  Engenheiro de software construindo com IA no centro do workflow. Uso ferramentas de ponta para desenvolver mais rápido e criar soluções que funcionam. Sempre testando o que há de novo antes de virar mainstream.
+  Engenheiro de software com IA no centro do workflow. Construo APIs, automações e sistemas que resolvem problemas reais, usando ferramentas de ponta pra desenvolver mais rápido e testar o que há de novo antes de virar mainstream.
 </p>
 
 <div align="left">
