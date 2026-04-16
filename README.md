@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Engenheiro de software com IA no centro do workflow. Construo APIs, automações e sistemas que resolvem problemas reais, usando ferramentas de ponta pra desenvolver mais rápido e testar o que há de novo antes de virar mainstream.
+  Engenheiro de software com IA no centro do workflow. Construo APIs, automações e sistemas que resolvem problemas reais, usando ferramentas de ponta pra desenvolver mais rápido e testar o que há de novo antes de virar mainstream. Apaixonado por open source e Linux, tratando o GitHub como espaço pra crescer em público e se conectar com a comunidade dev.
 </p>
 
 <div align="left">
