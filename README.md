@@ -65,7 +65,7 @@ API para extração e consolidação de dados com disparo automatizado de relat�
 
 ###
 
-<p align="left"><em>Resolver problemas, ouvir Frank Ocean, e seguir curioso ☕</em></p>
+<p align="left"><em>Resolver problemas, ouvir musica, e seguir curioso ☕</em></p>
 
 <div align="left">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV5emptOXllMXB3ZjRqYm1rcXhzeXRzMHRwZHZ4b2V1NmhjbDdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcBVW9S9avoti/giphy.gif" />
