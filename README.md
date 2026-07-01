@@ -1,7 +1,7 @@
 <h2 align="left">Lucas D. Paulo</h2>
 
 <p align="left">
-  <strong>Software Engineer | DevOps |</strong> 
+  <strong>Software Engineer | DevOps</strong> 
 </p>
 
 ###
