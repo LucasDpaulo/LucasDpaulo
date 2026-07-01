@@ -43,13 +43,6 @@ API para extração e consolidação de dados com disparo automatizado de relat�
 `Python` `API REST` `SaaS`
 
 ###
-
-<h3 align="left">GitHub Stats</h3>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDpaulo&theme=dark&hide_border=true" height="150" alt="streak" />
-</div>
-
 ###
 
 <h3 align="left">Contato</h3>
