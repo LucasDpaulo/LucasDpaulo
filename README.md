@@ -5,12 +5,10 @@
 </p>
 
 <p align="left">
-  I build reliable backend systems, developer tooling, and AI-powered workflows. My work combines software engineering, systems architecture, and infrastructure automation to turn complex operational needs into scalable, secure products.
+  <strong>I build backend systems, developer tools, and AI-powered workflows</strong> designed to be scalable, secure, and dependable.
 </p>
 
-<p align="left">
-  Currently at <strong>Atomos</strong>, I work on backend engineering, database modeling, and dependable data pipelines. I use this foundation to design API integrations, Retrieval-Augmented Generation (RAG) systems, LLM applications, and autonomous agents with a practical focus on reliability and real-world delivery.
-</p>
+> **Currently at Atomos:** backend engineering, database modeling, and data pipelines—applied to API integrations, **LLM applications**, **RAG systems**, and **autonomous agents**.
 
 ### Core stack
 
@@ -25,18 +23,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-### Engineering focus
+### What I build
 
-- Backend systems, API design, and database modeling
-- Infrastructure automation, containers, and developer experience
-- Autonomous agents, LLM applications, and RAG architectures
-- Data pipelines and integrations designed for observability and reliability
+- **Backend & APIs** — services, integrations, and data models built for reliability.
+- **AI systems** — autonomous agents, LLM applications, and RAG architectures.
+- **Infrastructure & DevTools** — automation, containers, and better developer workflows.
 
 ### Selected work
 
 **🗺️ [Gnomon — Indoor wayfinding platform](https://github.com/LucasDpaulo/Gnomon)**
 
-An engineering project for indoor navigation in events, universities, and business environments. It brings together interactive maps, point-of-interest search, PWA delivery, data modeling, and deployment concerns—an ongoing exercise in product architecture and dependable user-facing systems.
+**Indoor navigation** for events, universities, and business environments.
+
+Built around **interactive maps**, **point-of-interest search**, **PWA delivery**, and **deployment architecture**—a practical product-engineering project for dependable user-facing systems.
 
 `PWA` · `JavaScript` · `Maps` · `Product Engineering`
 
