@@ -6,6 +6,6 @@ This is a place for some of the things I've built. If there isn't much here yet,
 
 ### Stack
 
-🐍 **Python** · ☕ **Java** · 🐧 **Linux** · 🐳 **Docker**
+🐍  · ☕  · 🐧  · 🐳 
 
  **Portfolio — coming soon**
