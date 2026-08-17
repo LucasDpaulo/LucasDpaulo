@@ -4,6 +4,6 @@ I'm a **Software Engineer** who enjoys turning ideas into reliable software, int
 
 ### Stack
 
-`Python` · `JavaScript` · `Node.js` · `Java` · `SQL` · `PostgreSQL` · `Docker` · `Linux`
+`Python` · · `Linux`
 
  **Portfolio — coming soon**
