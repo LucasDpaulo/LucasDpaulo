@@ -1,51 +1,46 @@
-<h2 align="left">Lucas D. Paulo</h2>
+<h1 align="left">Lucas De Paulo</h1>
 
 <p align="left">
-  <strong>Software Engineer | DevOps</strong> 
+  <strong>AI Engineer | Software Engineer | DevOps | Autonomous Agents &amp; DevTools</strong>
 </p>
-
-###
 
 <p align="left">
-  Engenheiro de Software focado em IA e automação. Minha abordagem prioriza a integração de ferramentas de inteligência artificial no workflow para acelerar o desenvolvimento e antecipar tendências tecnológicas. Entusiasta de Open Source e Linux, utilizo o GitHub como meu laboratório público para colaborar com a comunidade e construir soluções que resolvem problemas reais com eficiência e inovação.
+  I build reliable backend systems, developer tooling, and AI-powered workflows. My work combines software engineering, systems architecture, and infrastructure automation to turn complex operational needs into scalable, secure products.
 </p>
 
+<p align="left">
+  Currently at <strong>Atomos</strong>, I work on backend engineering, database modeling, and dependable data pipelines. I use this foundation to design API integrations, Retrieval-Augmented Generation (RAG) systems, LLM applications, and autonomous agents with a practical focus on reliability and real-world delivery.
+</p>
 
-###
-
-<h3 align="left">Tech Stack</h3>
+### Core stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-###
+### Engineering focus
 
-<h3 align="left">Projetos em destaque</h3>
+- Backend systems, API design, and database modeling
+- Infrastructure automation, containers, and developer experience
+- Autonomous agents, LLM applications, and RAG architectures
+- Data pipelines and integrations designed for observability and reliability
 
-**🗺️ [Gnomon - Mapeamento Indoor](https://github.com/LucasDpaulo/Gnomon)** ⭐
-Startup participante do Startup Day. Sistema de wayfinding para ambientes internos voltado para eventos, universidades e empresas. PWA com mapas interativos e busca por pontos de interesse.
-`PWA` `JavaScript` `Startup`
+### Selected work
 
-**🤖 [Aurora - Agentes de IA](https://github.com/LucasDpaulo/agente-helena)**
-Agentes inteligentes para atendimento automatizado via WhatsApp. Integração com IA para fluxos conversacionais e suporte ao cliente.
-`IA` `WhatsApp` `Automação`
+**🗺️ [Gnomon — Indoor wayfinding platform](https://github.com/LucasDpaulo/Gnomon)**
 
-**⚡ [API Automação SaaS](https://github.com/LucasDpaulo/API_BUSCA_LUCAS)**
-API para extração e consolidação de dados com disparo automatizado de relatórios. Monitoramento de ativos, vendas e saúde financeira.
-`Python` `API REST` `SaaS`
+An engineering project for indoor navigation in events, universities, and business environments. It brings together interactive maps, point-of-interest search, PWA delivery, data modeling, and deployment concerns—an ongoing exercise in product architecture and dependable user-facing systems.
 
-###
-###
+`PWA` · `JavaScript` · `Maps` · `Product Engineering`
 
-<h3 align="left">Contato</h3>
+### Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasbarbosadev42/" target="_blank">
@@ -54,12 +49,4 @@ API para extração e consolidação de dados com disparo automatizado de relat�
   <a href="mailto:lucasb.hiago87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-###
-
-<p align="left"><em>Resolver problemas, ouvir musica, e seguir curioso ☕</em></p>
-
-<div align="left">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV5emptOXllMXB3ZjRqYm1rcXhzeXRzMHRwZHZ4b2V1NmhjbDdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcBVW9S9avoti/giphy.gif" />
 </div>
