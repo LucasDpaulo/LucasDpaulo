@@ -14,6 +14,6 @@ This is a place for some of the things I've built. If there isn't much here yet,
 
 ### Stack
 
-🐍 · ☕ · 🐧 · 🐳
+🐍 **Python** · 🔷 **TypeScript** · 🟨 **JavaScript** · 🐘 **PostgreSQL** · 🐳 **Docker** · 🐧 **Linux**
 
 <sub><strong>Portfolio — coming soon</strong></sub>
