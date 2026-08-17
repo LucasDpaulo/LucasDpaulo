@@ -5,10 +5,8 @@
 </p>
 
 <p align="left">
-  <strong>I design and build software products, intelligent workflows, and developer tools</strong>—combining systems architecture, automation, and AI to solve real operational problems.
+  <strong>I build software products, intelligent workflows, and developer tools</strong> using architecture, automation, and AI to solve real operational problems.
 </p>
-
-> **My work:** translating complex needs into software architecture, reliable integrations, data foundations, and intelligent automation with **LLMs**, **RAG**, and **autonomous agents**.
 
 ### Core stack
 
@@ -23,7 +21,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-### What I build
+### Focus areas
 
 - **Software systems** — architecture, APIs, integrations, and data models built for reliability.
 - **AI engineering** — autonomous agents, LLM applications, and RAG architectures.
