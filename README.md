@@ -6,4 +6,4 @@
 
 `Python` · `JavaScript` · `Node.js` · `Java` · `SQL` · `PostgreSQL` · `Docker` · `Linux`
 
-🌐 **Portfolio — coming soon**
+ **Portfolio — coming soon**
