@@ -1,14 +1,14 @@
 <h1 align="left">Lucas De Paulo</h1>
 
 <p align="left">
-  <strong>AI Engineer | Software Engineer | DevOps | Autonomous Agents &amp; DevTools</strong>
+  <strong>Software Engineer | AI Engineer | DevOps | Autonomous Agents &amp; DevTools</strong>
 </p>
 
 <p align="left">
-  <strong>I build backend systems, developer tools, and AI-powered workflows</strong> designed to be scalable, secure, and dependable.
+  <strong>I design and build software products, intelligent workflows, and developer tools</strong>—combining systems architecture, automation, and AI to solve real operational problems.
 </p>
 
-> **Currently at Atomos:** backend engineering, database modeling, and data pipelines—applied to API integrations, **LLM applications**, **RAG systems**, and **autonomous agents**.
+> **Currently at Atomos:** engineering software systems, data foundations, and integrations—applied to **LLM applications**, **RAG systems**, and **autonomous agents**.
 
 ### Core stack
 
@@ -25,9 +25,9 @@
 
 ### What I build
 
-- **Backend & APIs** — services, integrations, and data models built for reliability.
-- **AI systems** — autonomous agents, LLM applications, and RAG architectures.
-- **Infrastructure & DevTools** — automation, containers, and better developer workflows.
+- **Software systems** — architecture, APIs, integrations, and data models built for reliability.
+- **AI engineering** — autonomous agents, LLM applications, and RAG architectures.
+- **Automation & DevOps** — infrastructure, containers, and better developer workflows.
 
 ### Selected work
 
