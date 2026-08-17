@@ -8,7 +8,7 @@
   <strong>I design and build software products, intelligent workflows, and developer tools</strong>—combining systems architecture, automation, and AI to solve real operational problems.
 </p>
 
-> **Currently at Atomos:** engineering software systems, data foundations, and integrations—applied to **LLM applications**, **RAG systems**, and **autonomous agents**.
+> **My work:** translating complex needs into software architecture, reliable integrations, data foundations, and intelligent automation with **LLMs**, **RAG**, and **autonomous agents**.
 
 ### Core stack
 
