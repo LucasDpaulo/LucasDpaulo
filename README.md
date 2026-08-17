@@ -1,6 +1,6 @@
-# Hi, I'm Lucas
+<h1 align="center">Hi, I'm Lucas</h1>
 
-**Software Engineer** building reliable products, intelligent workflows, and developer tools with a practical interest in AI, automation, and open source.
+I'm a **Software Engineer** who enjoys turning ideas into reliable software, intelligent workflows, and developer tools. Curious by nature, I like exploring new technology, learning in public, and contributing to the open-source community.
 
 ### Stack
 
