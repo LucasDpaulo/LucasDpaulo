@@ -4,6 +4,6 @@ I'm a **Software Engineer** who enjoys turning ideas into reliable software, int
 
 ### Stack
 
-`Python` · · `Linux`
+🐍 **Python** · ☕ **Java** · 🐧 **Linux** · 🐳 **Docker**
 
  **Portfolio — coming soon**
