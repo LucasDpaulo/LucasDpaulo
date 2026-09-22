@@ -1,17 +1,18 @@
 <h1 align="center">Hi, I'm Lucas</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> · University graduate · Postgraduate student
-</p>
+  <strong>Software & AI Engineer · Design background · Founder @ Gnomon</p>
 
 ---
 
 ### A little about me
+I started out in design before crossing over to code, probably why I care as much about how something feels to use as how it's built. These days I build full-stack, with a soft spot for AI: autonomous agents, RAG, chatbots, the occasional fintech dashboard that just needs to work.
 
-Software Engineer · University graduate · Postgraduate student. I enjoy technology in all its forms, from software and new tools to good hardware and can spend hours building, experimenting, and learning. This is a place for some of the things I've built. If there isn't much here yet, it's probably still in the oven. Put on a good song, and let's build
+Outside the day job, I run Gnomon — my own thing, born back in college, still going strong. Right now I'm also deepening my AI game with grad coursework at UFPE.
 
-### Stack
+This is a place for some of the things I've built. If there isn't much here yet, it's probably still in the oven. Put on a good song, and let's build.
 
+## Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" />
   &nbsp;
