@@ -28,5 +28,3 @@ This is a place for some of the things I've built. If there isn't much here yet,
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" />
 </p>
-
-<sub><strong>Portfolio — coming soon</strong></sub>
