@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas</h1>
 
 <p align="center">
-  <strong>Software & AI Engineer · Design background · Founder @ Gnomon</p>
+  <strong>Software & AI Engineer · Design background</p>
 
 ---
 
