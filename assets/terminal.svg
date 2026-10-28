@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="390" viewBox="0 0 700 390" role="img" aria-labelledby="title desc">
+<title id="title">About Lucas — animated terminal</title>
+<desc id="desc">Lucas, Software and AI Engineer with a design background. Full-stack development, AI agents, RAG and user experience. Building Gnomon and studying AI at UFPE.</desc>
+<style>text.code{font:15px "DejaVu Sans Mono",Consolas,monospace;fill:#c9d1d9}@keyframes blink{0%,45%{opacity:1}50%,100%{opacity:0}}.cursor{animation:blink 1s step-end infinite}@media(prefers-reduced-motion:reduce){.typed{clip-path:none!important}.cursor{display:none}}@keyframes line0{0%,1.667%{width:0}2.708%,95%{width:13.04px}100%{width:0}}.reveal0{animation:line0 24s linear infinite}@keyframes line1{0%,3.208%{width:0}5.608%,95%{width:166.72px}100%{width:0}}.reveal1{animation:line1 24s linear infinite}@keyframes line2{0%,6.108%{width:0}10.775%,95%{width:320.40px}100%{width:0}}.reveal2{animation:line2 24s linear infinite}@keyframes line3{0%,11.275%{width:0}14.608%,95%{width:230.00px}100%{width:0}}.reveal3{animation:line3 24s linear infinite}@keyframes line4{0%,15.108%{width:0}16.708%,95%{width:112.48px}100%{width:0}}.reveal4{animation:line4 24s linear infinite}@keyframes line5{0%,17.208%{width:0}21.075%,95%{width:266.16px}100%{width:0}}.reveal5{animation:line5 24s linear infinite}@keyframes line6{0%,21.575%{width:0}24.508%,95%{width:202.88px}100%{width:0}}.reveal6{animation:line6 24s linear infinite}@keyframes line7{0%,25.008%{width:0}27.808%,95%{width:193.84px}100%{width:0}}.reveal7{animation:line7 24s linear infinite}@keyframes line8{0%,28.308%{width:0}29.350%,95%{width:40.16px}100%{width:0}}.reveal8{animation:line8 24s linear infinite}@keyframes line9{0%,29.850%{width:0}32.917%,95%{width:211.92px}100%{width:0}}.reveal9{animation:line9 24s linear infinite}@keyframes line10{0%,33.417%{width:0}36.883%,95%{width:239.04px}100%{width:0}}.reveal10{animation:line10 24s linear infinite}@keyframes line11{0%,37.383%{width:0}38.425%,95%{width:13.04px}100%{width:0}}.reveal11{animation:line11 24s linear infinite}@keyframes cursor0{0%,1.657%{opacity:0;x:22px}1.667%{opacity:1;x:22px}2.708%,3.108%{opacity:1;x:35.04px}3.118%,100%{opacity:0;x:35.04px}}@keyframes cursor1{0%,3.198%{opacity:0;x:22px}3.208%{opacity:1;x:22px}5.608%,6.008%{opacity:1;x:188.72px}6.018%,100%{opacity:0;x:188.72px}}@keyframes cursor2{0%,6.098%{opacity:0;x:22px}6.108%{opacity:1;x:22px}10.775%,11.175%{opacity:1;x:342.40px}11.185%,100%{opacity:0;x:342.40px}}@keyframes cursor3{0%,11.265%{opacity:0;x:22px}11.275%{opacity:1;x:22px}14.608%,15.008%{opacity:1;x:252.00px}15.018%,100%{opacity:0;x:252.00px}}@keyframes cursor4{0%,15.098%{opacity:0;x:22px}15.108%{opacity:1;x:22px}16.708%,17.108%{opacity:1;x:134.48px}17.118%,100%{opacity:0;x:134.48px}}@keyframes cursor5{0%,17.198%{opacity:0;x:22px}17.208%{opacity:1;x:22px}21.075%,21.475%{opacity:1;x:288.16px}21.485%,100%{opacity:0;x:288.16px}}@keyframes cursor6{0%,21.565%{opacity:0;x:22px}21.575%{opacity:1;x:22px}24.508%,24.908%{opacity:1;x:224.88px}24.918%,100%{opacity:0;x:224.88px}}@keyframes cursor7{0%,24.998%{opacity:0;x:22px}25.008%{opacity:1;x:22px}27.808%,28.208%{opacity:1;x:215.84px}28.218%,100%{opacity:0;x:215.84px}}@keyframes cursor8{0%,28.298%{opacity:0;x:22px}28.308%{opacity:1;x:22px}29.350%,29.750%{opacity:1;x:62.16px}29.760%,100%{opacity:0;x:62.16px}}@keyframes cursor9{0%,29.840%{opacity:0;x:22px}29.850%{opacity:1;x:22px}32.917%,33.317%{opacity:1;x:233.92px}33.327%,100%{opacity:0;x:233.92px}}@keyframes cursor10{0%,33.407%{opacity:0;x:22px}33.417%{opacity:1;x:22px}36.883%,37.283%{opacity:1;x:261.04px}37.293%,100%{opacity:0;x:261.04px}}@keyframes cursor11{0%,37.373%{opacity:0;x:22px}37.383%{opacity:1;x:22px}38.425%,38.825%{opacity:1;x:35.04px}38.835%,100%{opacity:0;x:35.04px}}@media(prefers-reduced-motion:reduce){rect[style]{animation:none!important}}</style>
+<rect x="1" y="1" width="698" height="388" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M11 1H689Q699 1 699 11V42H1V11Q1 1 11 1" fill="#21262d"/>
+<circle cx="22" cy="22" r="5" fill="#ff5f57"/><circle cx="40" cy="22" r="5" fill="#febc2e"/><circle cx="58" cy="22" r="5" fill="#28c840"/>
+<text x="350" y="27" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">lucas@github: ~/about.json</text>
+<defs><clipPath id="clip0"><rect class="reveal0" x="22" y="46" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="62" xml:space="preserve" clip-path="url(#clip0)" style="fill:#8b949e">{</text>
+<defs><clipPath id="clip1"><rect class="reveal1" x="22" y="71" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="87" xml:space="preserve" clip-path="url(#clip1)" style="fill:#79c0ff">  "name": "Lucas",</text>
+<defs><clipPath id="clip2"><rect class="reveal2" x="22" y="96" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="112" xml:space="preserve" clip-path="url(#clip2)" style="fill:#79c0ff">  "role": "Software &amp; AI Engineer",</text>
+<defs><clipPath id="clip3"><rect class="reveal3" x="22" y="121" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="137" xml:space="preserve" clip-path="url(#clip3)" style="fill:#79c0ff">  "background": "Design",</text>
+<defs><clipPath id="clip4"><rect class="reveal4" x="22" y="146" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="162" xml:space="preserve" clip-path="url(#clip4)" style="fill:#79c0ff">  "focus": [</text>
+<defs><clipPath id="clip5"><rect class="reveal5" x="22" y="171" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="187" xml:space="preserve" clip-path="url(#clip5)" style="fill:#79c0ff">    "Full-stack development",</text>
+<defs><clipPath id="clip6"><rect class="reveal6" x="22" y="196" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="212" xml:space="preserve" clip-path="url(#clip6)" style="fill:#79c0ff">    "AI agents &amp; RAG",</text>
+<defs><clipPath id="clip7"><rect class="reveal7" x="22" y="221" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="237" xml:space="preserve" clip-path="url(#clip7)" style="fill:#79c0ff">    "User experience"</text>
+<defs><clipPath id="clip8"><rect class="reveal8" x="22" y="246" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="262" xml:space="preserve" clip-path="url(#clip8)" style="fill:#8b949e">  ],</text>
+<defs><clipPath id="clip9"><rect class="reveal9" x="22" y="271" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="287" xml:space="preserve" clip-path="url(#clip9)" style="fill:#79c0ff">  "building": "Gnomon",</text>
+<defs><clipPath id="clip10"><rect class="reveal10" x="22" y="296" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="312" xml:space="preserve" clip-path="url(#clip10)" style="fill:#79c0ff">  "studying": "AI at UFPE"</text>
+<defs><clipPath id="clip11"><rect class="reveal11" x="22" y="321" width="0" height="24"/></clipPath></defs>
+<text class="code typed" x="22" y="337" xml:space="preserve" clip-path="url(#clip11)" style="fill:#8b949e">}</text>
+<text x="22" y="368" fill="#58a6ff" font-family="monospace" font-size="14">❯ <tspan class="cursor">▋</tspan></text>
+<rect x="22" y="46" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor0 24s linear infinite"/>
+<rect x="22" y="71" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor1 24s linear infinite"/>
+<rect x="22" y="96" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor2 24s linear infinite"/>
+<rect x="22" y="121" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor3 24s linear infinite"/>
+<rect x="22" y="146" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor4 24s linear infinite"/>
+<rect x="22" y="171" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor5 24s linear infinite"/>
+<rect x="22" y="196" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor6 24s linear infinite"/>
+<rect x="22" y="221" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor7 24s linear infinite"/>
+<rect x="22" y="246" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor8 24s linear infinite"/>
+<rect x="22" y="271" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor9 24s linear infinite"/>
+<rect x="22" y="296" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor10 24s linear infinite"/>
+<rect x="22" y="321" width="8" height="19" fill="#58a6ff" opacity="0" style="animation:cursor11 24s linear infinite"/></svg>
