@@ -1,5 +1,8 @@
 <div align="center">
 
+<a href="https://github.com/LucasDpaulo?tab=overview"><img src="assets/contributions.svg" width="700" alt="Contribution calendar with a gradual loading animation" /></a>
+
+
 <img src="assets/intro.svg" width="700" height="110" alt="Hi, I’m Lucas. Software and AI Engineer. Built with code. Shaped by design." />
 
 **Full-stack engineering · AI agents · Design background**
