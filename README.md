@@ -6,7 +6,7 @@
 
 Building useful things, with care for how they work and how they feel.
 
-[About](#about-me) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Stack](#toolbox) &nbsp; / &nbsp; [Activity](#github-activity)
+[About](#about-me) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Stack](#toolbox)
 
 </div>
 
@@ -63,12 +63,6 @@ A video editor's portfolio with an admin panel to manage videos, the hero sectio
 | **Design** | User experience · Interface design |
 
 <br />
-
-### GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasDpaulo&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Lucas's GitHub contribution streak" width="700" />
-</p>
 
 <p align="center">
   <a href="https://github.com/LucasDpaulo?tab=repositories">All repositories ↗</a>
