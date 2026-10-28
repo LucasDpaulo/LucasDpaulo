@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110" role="img" aria-label="Hi, I am Lucas. Software and AI Engineer.">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;text-anchor:middle;fill:#58a6ff;font-weight:600;font-size:29px}
+.line{opacity:0;animation:reveal 12s infinite}.second{animation-delay:4s}.third{animation-delay:8s;font-size:23px}
+@keyframes reveal{0%,33.33%,100%{opacity:0;transform:translateY(5px)}5%,28%{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.line{animation:none;opacity:0}.first{opacity:1}}
+</style>
+<path d="M220 93H480" stroke="#30363d" stroke-width="1"/>
+<text class="line first" x="350" y="61">Hi, I'm Lucas.</text>
+<text class="line second" x="350" y="61">Software &amp; AI Engineer.</text>
+<text class="line third" x="350" y="61">Built with code. Shaped by design.</text>
+</svg>
