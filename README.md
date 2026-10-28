@@ -3,25 +3,9 @@
 <a href="https://github.com/LucasDpaulo?tab=overview"><img src="assets/contributions.svg" width="700" alt="Contribution calendar with a gradual loading animation" /></a>
 
 
-<h1>Hi, I'm Lucas</h1>
-
-**Full-stack engineering · AI agents · Design background**
-
-Building useful things, with care for how they work and how they feel.
-
-[About](#about-me) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Stack](#toolbox)
+<img src="assets/terminal.svg" width="700" alt="About Lucas: Software and AI Engineer, design background, full-stack development, AI agents and RAG. Building Gnomon and studying AI at UFPE." />
 
 </div>
-
----
-
-### About me
-
-I started in design before crossing over to code. Today I build full-stack products with a soft spot for AI: autonomous agents, RAG, chatbots, and the occasional fintech dashboard that just needs to work.
-
-Outside the day job, I run **Gnomon**, a project I started in college, and I'm deepening my AI knowledge with graduate coursework at **UFPE**.
-
-Put on a good song, and let's build.
 
 <br />
 
