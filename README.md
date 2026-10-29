@@ -20,10 +20,48 @@
 <details>
 <summary><h2>🧭 Áreas de atuação</h2></summary>
 
-- **Full-stack:** interfaces, APIs e integrações para produtos completos.
-- **IA aplicada:** agentes autônomos, chatbots corporativos, RAG e fluxos com LLMs.
-- **Automação e DevOps:** integração entre desenvolvimento, entrega e operação.
-- **Produto e usabilidade:** decisões técnicas orientadas à experiência de quem usa.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Full-stack
+
+Interfaces, APIs e integrações conectadas em produtos completos.
+
+`Front-end` · `Back-end` · `Integrações`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 IA aplicada
+
+Agentes autônomos e chatbots corporativos com contexto e automação.
+
+`RAG` · `LLMs` · `Agentic Workflows`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automação e DevOps
+
+Conexão entre desenvolvimento, entrega e operação do software.
+
+`Automação` · `Entrega` · `Operação`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Produto e usabilidade
+
+Decisões técnicas guiadas pela experiência de quem usa.
+
+`Design` · `UX` · `Visão de produto`
+
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -55,10 +93,19 @@
 <details>
 <summary><h2>⚙️ Como trabalho</h2></summary>
 
-- Partir do problema e do impacto para quem usa o produto.
-- Dividir entregas em escopos claros, com validação e revisão.
-- Usar agentes de IA com supervisão, testes e evidências das mudanças.
-- Documentar decisões e cuidar da integração entre as partes do sistema.
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Entender-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Etapa 1: entender" />
+  <img src="https://img.shields.io/badge/02-Planejar-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Etapa 2: planejar" />
+  <img src="https://img.shields.io/badge/03-Validar-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Etapa 3: validar" />
+  <img src="https://img.shields.io/badge/04-Integrar-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Etapa 4: integrar" />
+</p>
+
+| Etapa | Na prática |
+| :--- | :--- |
+| 🔍 **Entender** | Partir do problema e do impacto para quem usa o produto. |
+| 🧩 **Planejar** | Dividir entregas em escopos claros, com critérios de validação e revisão. |
+| 🧪 **Validar** | Supervisionar agentes de IA, testar e verificar evidências das mudanças. |
+| 🔗 **Integrar** | Documentar decisões e cuidar da integração entre as partes do sistema. |
 
 </details>
 
