@@ -2,7 +2,14 @@
 
 <img src="assets/terminal.svg" width="760" alt="Lucas — Software & AI Engineer. Full-stack, agentes autônomos, automação e visão de produto." />
 
-[Atuação](#-áreas-de-atuação) · [Tecnologias](#-tecnologias) · [Engenharia](#-como-trabalho) · [Estudos](#-em-construção-e-estudo) · [Explorar](#-explore-meu-trabalho) · [Contato](#-vamos-conversar)
+<p align="center">
+<a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
+<a href="#-tecnologias"><img src="https://img.shields.io/badge/Tecnologias-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Tecnologias" /></a>
+<a href="#-como-trabalho"><img src="https://img.shields.io/badge/Engenharia-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Engenharia" /></a>
+<a href="#-em-construção-e-estudo"><img src="https://img.shields.io/badge/Estudos-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Estudos" /></a>
+<a href="#-estatísticas-e-atividade"><img src="https://img.shields.io/badge/Dados-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Dados" /></a>
+<a href="#-vamos-conversar"><img src="https://img.shields.io/badge/Contato-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Contato" /></a>
+</p>
 
 <a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conectar pelo LinkedIn" /></a>
 
@@ -45,6 +52,25 @@
 - **Gnomon:** projeto próprio que conecta minha atuação em tecnologia e produto.
 - **UFPE:** aprofundamento em IA por meio de disciplina isolada de pós-graduação.
 - **Engenharia com agentes:** organização, supervisão e revisão de fluxos de desenvolvimento com múltiplos agentes.
+
+## 📊 Estatísticas e atividade
+
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=LucasDpaulo&amp;theme=monokai-metallian&amp;hide_border=true&amp;background=272833" width="495" alt="Sequência de contribuições de Lucas no GitHub" />
+
+### 💻 GitHub Profile Stats
+
+<p>
+  <img src="assets/stats.svg" width="49%" alt="Estrelas, commits, pull requests, issues e repositórios com contribuições" />
+  <img src="assets/languages.svg" width="49%" alt="Linguagens nos repositórios públicos" />
+</p>
+
+<sub>Dados atualizados diariamente. Linguagens representam bytes de código público, não nível de experiência. Commits, PRs e issues consideram os últimos 12 meses.</sub>
+
+### ⚡ Atividade pública
+
+[Ver contribuições e atividade recente ↗](https://github.com/LucasDpaulo?tab=overview)
 
 ## 🔎 Explore meu trabalho
 
