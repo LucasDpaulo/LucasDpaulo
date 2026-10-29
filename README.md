@@ -93,7 +93,7 @@
 
 ### ⚡ Atividade pública
 
-[Ver contribuições e atividade recente ↗](https://github.com/LucasDpaulo?tab=overview)
+<a href="https://github.com/LucasDpaulo?tab=overview"><img src="https://img.shields.io/badge/Atividade-Contribui%C3%A7%C3%B5es-66D9EF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Ver contribuições e atividade recente" /></a>
 
 </details>
 
@@ -102,7 +102,11 @@
 <details>
 <summary><h2>🔎 Explore meu trabalho</h2></summary>
 
-[Todos os repositórios ↗](https://github.com/LucasDpaulo?tab=repositories) &nbsp; · &nbsp; [Atividade pública ↗](https://github.com/LucasDpaulo?tab=overview)
+<p>
+  <a href="https://github.com/LucasDpaulo?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-E6DB74?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Explorar todos os repositórios" /></a>
+  &nbsp;
+  <a href="https://github.com/LucasDpaulo?tab=overview"><img src="https://img.shields.io/badge/GitHub-Atividade-66D9EF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Ver atividade pública no GitHub" /></a>
+</p>
 
 </details>
 
