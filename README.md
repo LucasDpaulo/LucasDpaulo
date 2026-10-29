@@ -72,19 +72,64 @@ Decisões técnicas guiadas pela experiência de quem usa.
 
 ### Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&amp;theme=dark&amp;perline=10" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS e Vite" />
+
+<p>
+<img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
+</p>
+
+### Back-end e APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=dark&amp;perline=10" alt="Node.js e Express" />
+
+<p>
+<img src="https://img.shields.io/badge/Fastify-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Fastify" />
+<img src="https://img.shields.io/badge/Zod-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Zod" />
+</p>
 
 ### Dados e persistência
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma&amp;theme=dark" alt="PostgreSQL e Prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark&amp;perline=10" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" />
+
+<p>
+<img src="https://img.shields.io/badge/Drizzle%20ORM-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
+</p>
 
 ### Ferramentas e ambiente
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark" alt="Git, GitHub, Docker e Linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark&amp;perline=10" alt="Git, GitHub, Docker e Linux" />
+
+### Aplicações mobile e desktop
+
+<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark&amp;perline=10" alt="Tauri" />
+
+<p>
+<img src="https://img.shields.io/badge/Capacitor-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Capacitor" />
+</p>
+
+### Testes e qualidade
+
+<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark&amp;perline=10" alt="Vitest e Jest" />
+
+<p>
+<img src="https://img.shields.io/badge/Playwright-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
+</p>
 
 ### IA e automação
 
-`RAG` · `LLMs` · `Autonomous Agents` · `Agentic Workflows` · `Chatbots`
+<p>
+<img src="https://img.shields.io/badge/OpenAI%20API-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Gemini%20API-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Gemini API" />
+<img src="https://img.shields.io/badge/LangChain-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="LangChain" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/RAG-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="LLMs" />
+<img src="https://img.shields.io/badge/Autonomous%20Agents-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Autonomous Agents" />
+<img src="https://img.shields.io/badge/Agentic%20Workflows-AB9DF2?style=for-the-badge&amp;labelColor=272833" alt="Agentic Workflows" />
+<img src="https://img.shields.io/badge/Chatbots-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Chatbots" />
+</p>
 
 </details>
 
