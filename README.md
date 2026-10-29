@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="700" alt="About Lucas: Software and AI Engineer, design background, full-stack development, AI agents and RAG. Building Gnomon and studying AI at UFPE." />
+<img src="assets/terminal.svg" width="760" alt="Engenheiro de Software e IA com foco em desenvolvimento full-stack, agentes autônomos e automação, combinando qualidade técnica, visão de produto e cuidado com a experiência de quem usa." />
 
 
-Engenheiro de Software e IA com foco em desenvolvimento full-stack, agentes autônomos e automação, combinando qualidade técnica, visão de produto e cuidado com a experiência de quem usa.
+
 
 </div>
 
