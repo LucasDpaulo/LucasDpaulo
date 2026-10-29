@@ -18,7 +18,7 @@
 <a id="-áreas-de-atuação"></a>
 
 <details>
-<summary><strong>🧭 Áreas de atuação</strong></summary>
+<summary><h2>🧭 Áreas de atuação</h2></summary>
 
 - **Full-stack:** interfaces, APIs e integrações para produtos completos.
 - **IA aplicada:** agentes autônomos, chatbots corporativos, RAG e fluxos com LLMs.
@@ -30,7 +30,7 @@
 <a id="-tecnologias"></a>
 
 <details>
-<summary><strong>🛠️ Tecnologias</strong></summary>
+<summary><h2>🛠️ Tecnologias</h2></summary>
 
 ### Front-end
 
@@ -53,7 +53,7 @@
 <a id="-como-trabalho"></a>
 
 <details>
-<summary><strong>⚙️ Como trabalho</strong></summary>
+<summary><h2>⚙️ Como trabalho</h2></summary>
 
 - Partir do problema e do impacto para quem usa o produto.
 - Dividir entregas em escopos claros, com validação e revisão.
@@ -65,7 +65,7 @@
 <a id="-em-construção-e-estudo"></a>
 
 <details>
-<summary><strong>🌱 Em construção e estudo</strong></summary>
+<summary><h2>🌱 Em construção e estudo</h2></summary>
 
 - **Gnomon:** projeto próprio que conecta minha atuação em tecnologia e produto.
 - **UFPE:** aprofundamento em IA por meio de disciplina isolada de pós-graduação.
@@ -76,7 +76,7 @@
 <a id="-estatísticas-e-atividade"></a>
 
 <details>
-<summary><strong>📊 Estatísticas e atividade</strong></summary>
+<summary><h2>📊 Estatísticas e atividade</h2></summary>
 
 ### 🔥 Streak Stats
 
@@ -100,7 +100,7 @@
 <a id="-explore-meu-trabalho"></a>
 
 <details>
-<summary><strong>🔎 Explore meu trabalho</strong></summary>
+<summary><h2>🔎 Explore meu trabalho</h2></summary>
 
 [Todos os repositórios ↗](https://github.com/LucasDpaulo?tab=repositories) &nbsp; · &nbsp; [Atividade pública ↗](https://github.com/LucasDpaulo?tab=overview)
 
@@ -109,7 +109,7 @@
 <a id="-vamos-conversar"></a>
 
 <details>
-<summary><strong>🤝 Vamos conversar</strong></summary>
+<summary><h2>🤝 Vamos conversar</h2></summary>
 
 Para conversar sobre engenharia de software, IA aplicada ou produtos digitais:
 
