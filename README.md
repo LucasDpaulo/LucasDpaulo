@@ -67,9 +67,43 @@
 <details>
 <summary><h2>🌱 Em construção e estudo</h2></summary>
 
-- **Gnomon:** projeto próprio que conecta minha atuação em tecnologia e produto.
-- **UFPE:** aprofundamento em IA por meio de disciplina isolada de pós-graduação.
-- **Engenharia com agentes:** organização, supervisão e revisão de fluxos de desenvolvimento com múltiplos agentes.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/Gnomon-Produto-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Gnomon · Produto" />
+
+#### 🚀 Construindo
+
+Projeto próprio que une engenharia, design e visão de produto.
+
+`Software` · `Usabilidade`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/UFPE-IA-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="UFPE · Inteligência artificial" />
+
+#### 🎓 Aprofundando
+
+Estudos em IA por meio de disciplina isolada de pós-graduação na UFPE.
+
+`Inteligência artificial` · `Estudo`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/Agentes-Engenharia-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Agentes · Engenharia" />
+
+#### 🤖 Explorando
+
+Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
+
+`Agentic Workflows` · `Revisão`
+
+</td>
+</tr>
+</table>
 
 </details>
 
