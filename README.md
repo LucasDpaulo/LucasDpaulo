@@ -15,14 +15,22 @@
 
 </div>
 
-## 🧭 Áreas de atuação
+<a id="-áreas-de-atuação"></a>
+
+<details>
+<summary><strong>🧭 Áreas de atuação</strong></summary>
 
 - **Full-stack:** interfaces, APIs e integrações para produtos completos.
 - **IA aplicada:** agentes autônomos, chatbots corporativos, RAG e fluxos com LLMs.
 - **Automação e DevOps:** integração entre desenvolvimento, entrega e operação.
 - **Produto e usabilidade:** decisões técnicas orientadas à experiência de quem usa.
 
-## 🛠️ Tecnologias
+</details>
+
+<a id="-tecnologias"></a>
+
+<details>
+<summary><strong>🛠️ Tecnologias</strong></summary>
 
 ### Front-end
 
@@ -40,20 +48,35 @@
 
 `RAG` · `LLMs` · `Autonomous Agents` · `Agentic Workflows` · `Chatbots`
 
-## ⚙️ Como trabalho
+</details>
+
+<a id="-como-trabalho"></a>
+
+<details>
+<summary><strong>⚙️ Como trabalho</strong></summary>
 
 - Partir do problema e do impacto para quem usa o produto.
 - Dividir entregas em escopos claros, com validação e revisão.
 - Usar agentes de IA com supervisão, testes e evidências das mudanças.
 - Documentar decisões e cuidar da integração entre as partes do sistema.
 
-## 🌱 Em construção e estudo
+</details>
+
+<a id="-em-construção-e-estudo"></a>
+
+<details>
+<summary><strong>🌱 Em construção e estudo</strong></summary>
 
 - **Gnomon:** projeto próprio que conecta minha atuação em tecnologia e produto.
 - **UFPE:** aprofundamento em IA por meio de disciplina isolada de pós-graduação.
 - **Engenharia com agentes:** organização, supervisão e revisão de fluxos de desenvolvimento com múltiplos agentes.
 
-## 📊 Estatísticas e atividade
+</details>
+
+<a id="-estatísticas-e-atividade"></a>
+
+<details>
+<summary><strong>📊 Estatísticas e atividade</strong></summary>
 
 ### 🔥 Streak Stats
 
@@ -72,11 +95,21 @@
 
 [Ver contribuições e atividade recente ↗](https://github.com/LucasDpaulo?tab=overview)
 
-## 🔎 Explore meu trabalho
+</details>
+
+<a id="-explore-meu-trabalho"></a>
+
+<details>
+<summary><strong>🔎 Explore meu trabalho</strong></summary>
 
 [Todos os repositórios ↗](https://github.com/LucasDpaulo?tab=repositories) &nbsp; · &nbsp; [Atividade pública ↗](https://github.com/LucasDpaulo?tab=overview)
 
-## 🤝 Vamos conversar
+</details>
+
+<a id="-vamos-conversar"></a>
+
+<details>
+<summary><strong>🤝 Vamos conversar</strong></summary>
 
 Para conversar sobre engenharia de software, IA aplicada ou produtos digitais:
 
@@ -85,3 +118,6 @@ Para conversar sobre engenharia de software, IA aplicada ou produtos digitais:
 <!-- PORTFOLIO: Replace PORTFOLIO_URL and uncomment when the website is available.
 <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visitar-58A6FF?style=for-the-badge" alt="Visitar portfólio" /></a>
 -->
+
+</details>
+
