@@ -24,7 +24,7 @@
 <summary><h2>🧭 Áreas de atuação</h2></summary>
 
 <p align="center">
-<img src="assets/full-stack.svg" width="245" alt="Desenvolvimento Full Stack: desenvolvimento e manutenção de aplicações web, interfaces, APIs e persistência de dados." />
+<img src="assets/full-stack.svg" width="245" alt="Desenvolvimento Multiplataforma: web e aplicações nativas para Android, Smart TVs, Windows e Linux, conectando interfaces, APIs e persistência de dados." />
 <img src="assets/integrations.svg" width="245" alt="Integrações e automação: conexão entre sistemas e serviços, criação de APIs e automação de fluxos conforme o projeto." />
 <img src="assets/ai-agents.svg" width="245" alt="Agentes de IA: workflows para apoiar investigação, implementação, revisão e testes de software, com supervisão humana." />
 </p>
