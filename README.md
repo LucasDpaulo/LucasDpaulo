@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="760" alt="Lucas — Software & AI Engineer. Full-stack, agentes autônomos, automação e visão de produto." />
+<img src="assets/terminal.svg" width="760" alt="Lucas — Software Developer | AI Engineer. Next.js, Python e agentes de IA." />
+
+<h1>Software Developer | AI Engineer</h1>
+<p>Next.js · Python · AI Agents</p>
 
 <p align="center">
 <a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
 <a href="#-tecnologias"><img src="https://img.shields.io/badge/Tecnologias-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Tecnologias" /></a>
-<a href="#-como-trabalho"><img src="https://img.shields.io/badge/Engenharia-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Engenharia" /></a>
+<a href="#-como-trabalho"><img src="https://img.shields.io/badge/Processo-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Processo" /></a>
 <a href="#-em-construção-e-estudo"><img src="https://img.shields.io/badge/Estudos-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Estudos" /></a>
 <a href="#-estatísticas-e-atividade"><img src="https://img.shields.io/badge/Dados-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Dados" /></a>
 <a href="#-vamos-conversar"><img src="https://img.shields.io/badge/Contato-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Contato" /></a>
@@ -20,48 +23,16 @@
 <details>
 <summary><h2>🧭 Áreas de atuação</h2></summary>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Desenvolvo aplicações web, integrações e automações, escolhendo tecnologias conforme os requisitos de cada projeto. Exploro agentes de IA e compartilho aqui meus projetos e aprendizados.
 
-### 💻 Full-stack
+### 💻 Desenvolvimento de software
 
-Interfaces, APIs e integrações conectadas em produtos completos.
+Interfaces, APIs e integrações para transformar problemas em soluções.
 
-`Front-end` · `Back-end` · `Integrações`
+### 🤖 Agentes de IA
 
-</td>
-<td width="50%" valign="top">
+Workflows com agentes para apoiar o desenvolvimento, a revisão e os testes de software.
 
-### 🤖 IA aplicada
-
-Agentes autônomos e chatbots corporativos com contexto e automação.
-
-`RAG` · `LLMs` · `Agentic Workflows`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Automação e DevOps
-
-Conexão entre desenvolvimento, entrega e operação do software.
-
-`Automação` · `Entrega` · `Operação`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Produto e usabilidade
-
-Decisões técnicas guiadas pela experiência de quem usa.
-
-`Design` · `UX` · `Visão de produto`
-
-</td>
-</tr>
-</table>
 
 </details>
 
@@ -70,66 +41,19 @@ Decisões técnicas guiadas pela experiência de quem usa.
 <details>
 <summary><h2>🛠️ Tecnologias</h2></summary>
 
-### Front-end
+### Tecnologias em foco
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&amp;theme=dark&amp;perline=10" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS e Vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,python,ts,react&amp;theme=dark" alt="Next.js, Python, TypeScript e React" />
 
-<p>
-<img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
-</p>
+### Também utilizo conforme o projeto
 
-### Back-end e APIs
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,docker,linux&amp;theme=dark" alt="C#, .NET, PostgreSQL, Git, Docker e Linux" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=dark&amp;perline=10" alt="Node.js e Express" />
+### Ferramentas de desenvolvimento com IA
 
-<p>
-<img src="https://img.shields.io/badge/Fastify-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Fastify" />
-<img src="https://img.shields.io/badge/Zod-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Zod" />
-</p>
+`Codex` · `Claude Code`
 
-### Dados e persistência
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark&amp;perline=10" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" />
-
-<p>
-<img src="https://img.shields.io/badge/Drizzle%20ORM-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
-</p>
-
-### Ferramentas e ambiente
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark&amp;perline=10" alt="Git, GitHub, Docker e Linux" />
-
-### Aplicações mobile e desktop
-
-<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark&amp;perline=10" alt="Tauri" />
-
-<p>
-<img src="https://img.shields.io/badge/Capacitor-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Capacitor" />
-</p>
-
-### Testes e qualidade
-
-<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark&amp;perline=10" alt="Vitest e Jest" />
-
-<p>
-<img src="https://img.shields.io/badge/Playwright-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
-</p>
-
-### IA e automação
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI%20API-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Gemini%20API-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Gemini API" />
-<img src="https://img.shields.io/badge/LangChain-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="LangChain" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/RAG-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="RAG" />
-<img src="https://img.shields.io/badge/LLMs-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="LLMs" />
-<img src="https://img.shields.io/badge/Autonomous%20Agents-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Autonomous Agents" />
-<img src="https://img.shields.io/badge/Agentic%20Workflows-AB9DF2?style=for-the-badge&amp;labelColor=272833" alt="Agentic Workflows" />
-<img src="https://img.shields.io/badge/Chatbots-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Chatbots" />
-</p>
+A escolha da stack considera o contexto, a compatibilidade e a manutenção do projeto.
 
 </details>
 
@@ -167,7 +91,7 @@ Decisões técnicas guiadas pela experiência de quem usa.
 
 #### 🚀 Construindo
 
-Projeto próprio que une engenharia, design e visão de produto.
+Projeto próprio de software, com atenção à experiência de uso.
 
 `Software` · `Usabilidade`
 
@@ -185,7 +109,7 @@ Estudos em IA por meio de disciplina isolada de pós-graduação na UFPE.
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Agentes-Engenharia-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Agentes · Engenharia" />
+<img src="https://img.shields.io/badge/Agentes-IA-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Agentes · IA" />
 
 #### 🤖 Explorando
 
@@ -241,7 +165,7 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 <details>
 <summary><h2>🤝 Vamos conversar</h2></summary>
 
-Para conversar sobre engenharia de software, IA aplicada ou produtos digitais:
+Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 
 <a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20De%20Paulo-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Lucas De Paulo" /></a>
 
@@ -250,4 +174,5 @@ Para conversar sobre engenharia de software, IA aplicada ou produtos digitais:
 -->
 
 </details>
+
 
