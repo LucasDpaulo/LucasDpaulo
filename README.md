@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
-<a href="#-tecnologias"><img src="https://img.shields.io/badge/Tecnologias-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Tecnologias" /></a>
+<a href="#-tecnologias"><img src="https://img.shields.io/badge/Stack-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Stack e ferramentas" /></a>
 <a href="#-como-trabalho"><img src="https://img.shields.io/badge/Processo-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Processo" /></a>
 <a href="#-em-construção-e-estudo"><img src="https://img.shields.io/badge/Estudos-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Estudos" /></a>
 <a href="#-estatísticas-e-atividade"><img src="https://img.shields.io/badge/Dados-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Dados" /></a>
@@ -23,37 +23,99 @@
 <details>
 <summary><h2>🧭 Áreas de atuação</h2></summary>
 
-Desenvolvo aplicações web, integrações e automações, escolhendo tecnologias conforme os requisitos de cada projeto. Exploro agentes de IA e compartilho aqui meus projetos e aprendizados.
+### 💻 Desenvolvimento Full Stack
 
-### 💻 Desenvolvimento de software
+Desenvolvimento e manutenção de aplicações web, conectando interfaces, APIs e persistência de dados.
 
-Interfaces, APIs e integrações para transformar problemas em soluções.
+`Front-end` · `Back-end` · `Aplicações web`
+
+### 🔗 Integrações e automação
+
+Integração entre sistemas e serviços, criação de APIs e automação de fluxos para atender às necessidades de cada projeto.
+
+`APIs` · `Integrações` · `Automação`
 
 ### 🤖 Agentes de IA
 
-Workflows com agentes para apoiar o desenvolvimento, a revisão e os testes de software.
+Estruturação de workflows com agentes de IA para apoiar investigação, implementação, revisão e testes de software.
 
+`AI Agents` · `Agentic Workflows` · `Supervisão humana`
 
 </details>
 
 <a id="-tecnologias"></a>
 
 <details>
-<summary><h2>🛠️ Tecnologias</h2></summary>
+<summary><h2>🛠️ Stack e ferramentas</h2></summary>
 
-### Tecnologias em foco
+**Em destaque:** Next.js · TypeScript · Python
 
-<img src="https://skillicons.dev/icons?i=nextjs,python,ts,react&amp;theme=dark" alt="Next.js, Python, TypeScript e React" />
+Tecnologias utilizadas em projetos e estudos. A escolha varia conforme os requisitos, a compatibilidade e a manutenção de cada aplicação.
 
-### Também utilizo conforme o projeto
+### Linguagens
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,docker,linux&amp;theme=dark" alt="C#, .NET, PostgreSQL, Git, Docker e Linux" />
+<img src="https://skillicons.dev/icons?i=ts,python,cs,js&amp;theme=dark&amp;perline=10" alt="TypeScript, Python, C# e JavaScript" />
 
-### Ferramentas de desenvolvimento com IA
+### Front-end
 
-`Codex` · `Claude Code`
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark&amp;perline=10" alt="React, Next.js, HTML, CSS, Tailwind CSS e Vite" />
 
-A escolha da stack considera o contexto, a compatibilidade e a manutenção do projeto.
+<p>
+<img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
+</p>
+
+### Back-end e APIs
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&amp;theme=dark&amp;perline=10" alt=" .NET, Node.js e Express" />
+
+<p>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Fastify-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Fastify" />
+<img src="https://img.shields.io/badge/Zod-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Zod" />
+</p>
+
+### Bancos de dados e persistência
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark&amp;perline=10" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" />
+
+<p>
+<img src="https://img.shields.io/badge/Drizzle%20ORM-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
+</p>
+
+### IA — APIs e frameworks
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI%20API-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Gemini%20API-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Gemini API" />
+<img src="https://img.shields.io/badge/LangChain-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="LangChain" />
+</p>
+
+### Desenvolvimento com agentes de IA
+
+<p>
+<img src="https://img.shields.io/badge/Codex-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude%20Code-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Claude Code" />
+</p>
+
+### Aplicações mobile e desktop
+
+<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark&amp;perline=10" alt="Tauri" />
+
+<p>
+<img src="https://img.shields.io/badge/Capacitor-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Capacitor" />
+</p>
+
+### Testes e qualidade
+
+<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark&amp;perline=10" alt="Vitest e Jest" />
+
+<p>
+<img src="https://img.shields.io/badge/Playwright-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
+</p>
+
+### Versionamento e ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark&amp;perline=10" alt="Git, GitHub, Docker e Linux" />
 
 </details>
 
@@ -174,5 +236,6 @@ Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 -->
 
 </details>
+
 
 
