@@ -20,53 +20,59 @@
 
 <a id="-áreas-de-atuação"></a>
 
-<details>
+<details open>
 <summary><h2>🧭 Áreas de atuação</h2></summary>
 
-### 💻 Desenvolvimento Full Stack
-
-Desenvolvimento e manutenção de aplicações web, conectando interfaces, APIs e persistência de dados.
-
-`Front-end` · `Back-end` · `Aplicações web`
-
-### 🔗 Integrações e automação
-
-Integração entre sistemas e serviços, criação de APIs e automação de fluxos para atender às necessidades de cada projeto.
-
-`APIs` · `Integrações` · `Automação`
-
-### 🤖 Agentes de IA
-
-Estruturação de workflows com agentes de IA para apoiar investigação, implementação, revisão e testes de software.
-
-`AI Agents` · `Agentic Workflows` · `Supervisão humana`
+<p align="center">
+<img src="assets/full-stack.svg" width="245" alt="Desenvolvimento Full Stack: desenvolvimento e manutenção de aplicações web, interfaces, APIs e persistência de dados." />
+<img src="assets/integrations.svg" width="245" alt="Integrações e automação: conexão entre sistemas e serviços, criação de APIs e automação de fluxos conforme o projeto." />
+<img src="assets/ai-agents.svg" width="245" alt="Agentes de IA: workflows para apoiar investigação, implementação, revisão e testes de software, com supervisão humana." />
+</p>
 
 </details>
 
 <a id="-tecnologias"></a>
 
-<details>
+<details open>
 <summary><h2>🛠️ Stack e ferramentas</h2></summary>
 
-**Em destaque:** Next.js · TypeScript · Python
+<table>
+<tr>
+<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" alt="Next.js" /><h3>Next.js</h3>Aplicações web<br /><br /></td>
+<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" alt="TypeScript" /><h3>TypeScript</h3>Interfaces e APIs<br /><br /></td>
+<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" alt="Python" /><h3>Python</h3>Automação e IA<br /><br /></td>
+</tr>
+</table>
 
-Tecnologias utilizadas em projetos e estudos. A escolha varia conforme os requisitos, a compatibilidade e a manutenção de cada aplicação.
+Tecnologias utilizadas em projetos e estudos, escolhidas conforme os requisitos e a manutenção de cada aplicação.
 
-### Linguagens
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=ts,python,cs,js&amp;theme=dark&amp;perline=10" alt="TypeScript, Python, C# e JavaScript" />
+<h3>Linguagens</h3>
 
-### Front-end
+<img src="https://skillicons.dev/icons?i=ts,python,cs,js&amp;theme=dark&amp;perline=4" alt="TypeScript, Python, C# e JavaScript" width="216" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark&amp;perline=10" alt="React, Next.js, HTML, CSS, Tailwind CSS e Vite" />
+</td>
+<td width="50%" valign="top">
+
+<h3>Front-end</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark&amp;perline=4" alt="React, Next.js, HTML, CSS, Tailwind CSS e Vite" width="216" />
 
 <p>
 <img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
 </p>
 
-### Back-end e APIs
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&amp;theme=dark&amp;perline=10" alt=" .NET, Node.js e Express" />
+<h3>Back-end e APIs</h3>
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&amp;theme=dark&amp;perline=4" alt=" .NET, Node.js e Express" width="160" />
 
 <p>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="ASP.NET Core" />
@@ -74,15 +80,23 @@ Tecnologias utilizadas em projetos e estudos. A escolha varia conforme os requis
 <img src="https://img.shields.io/badge/Zod-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Zod" />
 </p>
 
-### Bancos de dados e persistência
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark&amp;perline=10" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" />
+<h3>Bancos de dados e persistência</h3>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark&amp;perline=4" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" width="216" />
 
 <p>
 <img src="https://img.shields.io/badge/Drizzle%20ORM-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
 </p>
 
-### IA — APIs e frameworks
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>IA — APIs e frameworks</h3>
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI%20API-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="OpenAI API" />
@@ -90,32 +104,52 @@ Tecnologias utilizadas em projetos e estudos. A escolha varia conforme os requis
 <img src="https://img.shields.io/badge/LangChain-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="LangChain" />
 </p>
 
-### Desenvolvimento com agentes de IA
+</td>
+<td width="50%" valign="top">
+
+<h3>Desenvolvimento com agentes de IA</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Codex-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Codex" />
 <img src="https://img.shields.io/badge/Claude%20Code-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Claude Code" />
 </p>
 
-### Aplicações mobile e desktop
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark&amp;perline=10" alt="Tauri" />
+<h3>Aplicações mobile e desktop</h3>
+
+<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark&amp;perline=4" alt="Tauri" width="48" />
 
 <p>
 <img src="https://img.shields.io/badge/Capacitor-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Capacitor" />
 </p>
 
-### Testes e qualidade
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark&amp;perline=10" alt="Vitest e Jest" />
+<h3>Testes e qualidade</h3>
+
+<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark&amp;perline=4" alt="Vitest e Jest" width="104" />
 
 <p>
 <img src="https://img.shields.io/badge/Playwright-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
 </p>
 
-### Versionamento e ambiente
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark&amp;perline=10" alt="Git, GitHub, Docker e Linux" />
+<h3>Versionamento e ambiente</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark&amp;perline=4" alt="Git, GitHub, Docker e Linux" width="216" />
+
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -236,6 +270,7 @@ Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 -->
 
 </details>
+
 
 
 
