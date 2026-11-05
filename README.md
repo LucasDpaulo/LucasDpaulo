@@ -204,7 +204,7 @@ Projeto próprio de software, com atenção à experiência de uso.
 
 #### 🎓 Aprofundando
 
-Estudos em IA por meio de disciplina isolada de pós-graduação na UFPE.
+Estudos em IA por meio de disciplina no Cin da UFPE.
 
 `Inteligência artificial` · `Estudo`
 
