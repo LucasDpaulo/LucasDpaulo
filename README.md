@@ -274,6 +274,17 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 <details>
 <summary><h2>🔎 Explore meu trabalho</h2></summary>
 
+### 🧅 [OpenCebola](https://github.com/LucasDpaulo/OpenCebola)
+
+Interface independente e de código aberto para facilitar o uso do ecossistema Stremio. Execute localmente ou hospede sua própria instância, conectando sua conta e seus addons compatíveis.
+
+Base em desenvolvimento, com perfis, biblioteca, progresso de reprodução e documentação para instalação e contribuição.
+
+`Next.js` · `TypeScript` · `Fastify` · `Supabase` · `Open source`
+
+<a href="https://github.com/LucasDpaulo/OpenCebola"><img src="https://img.shields.io/badge/OpenCebola-Conhecer%20o%20projeto-A9DC76?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Conhecer o projeto OpenCebola" /></a>
+
+
 <p>
   <a href="https://github.com/LucasDpaulo?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-E6DB74?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Explorar todos os repositórios" /></a>
   &nbsp;
@@ -296,6 +307,7 @@ Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 -->
 
 </details>
+
 
 
 
