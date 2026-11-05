@@ -265,12 +265,6 @@ Base em desenvolvimento, com perfis, biblioteca, progresso de reprodução e doc
 <a href="https://github.com/LucasDpaulo/OpenCebola"><img src="https://img.shields.io/badge/OpenCebola-Conhecer%20o%20projeto-A9DC76?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Conhecer o projeto OpenCebola" /></a>
 
 
-<p>
-  <a href="https://github.com/LucasDpaulo?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-E6DB74?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Explorar todos os repositórios" /></a>
-  &nbsp;
-  <a href="https://github.com/LucasDpaulo?tab=overview"><img src="https://img.shields.io/badge/GitHub-Atividade-66D9EF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Ver atividade pública no GitHub" /></a>
-</p>
-
 </details>
 
 <a id="-vamos-conversar"></a>
