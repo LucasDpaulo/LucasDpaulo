@@ -179,26 +179,6 @@ Tecnologias utilizadas em projetos e estudos, escolhidas conforme os requisitos 
 
 </details>
 
-<a id="-como-trabalho"></a>
-
-<details>
-<summary><h2>⚙️ Como trabalho</h2></summary>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Entender-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Etapa 1: entender" />
-  <img src="https://img.shields.io/badge/02-Planejar-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Etapa 2: planejar" />
-  <img src="https://img.shields.io/badge/03-Validar-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Etapa 3: validar" />
-  <img src="https://img.shields.io/badge/04-Integrar-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Etapa 4: integrar" />
-</p>
-
-| Etapa | Na prática |
-| :--- | :--- |
-| 🔍 **Entender** | Partir do problema e do impacto para quem usa o produto. |
-| 🧩 **Planejar** | Dividir entregas em escopos claros, com critérios de validação e revisão. |
-| 🧪 **Validar** | Supervisionar agentes de IA, testar e verificar evidências das mudanças. |
-| 🔗 **Integrar** | Documentar decisões e cuidar da integração entre as partes do sistema. |
-
-</details>
 
 <a id="-em-construção-e-estudo"></a>
 
