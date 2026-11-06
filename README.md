@@ -274,7 +274,7 @@ Base em desenvolvimento, com perfis, biblioteca, progresso de reprodução e doc
 
 Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 
-<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20De%20Paulo-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Lucas De Paulo" /></a>
+<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20De%20Paulo-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 
 <!-- PORTFOLIO: Replace PORTFOLIO_URL and uncomment when the website is available.
 <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visitar-58A6FF?style=for-the-badge" alt="Visitar portfólio" /></a>
