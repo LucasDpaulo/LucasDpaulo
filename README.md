@@ -252,7 +252,7 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 <a id="Open Source"></a>
 
 <details open>
-<summary><h2>🔎 Explore meu trabalho</h2></summary>
+<summary><h2>🔎 Open Source</h2></summary>
 
 ### 🧅 [OpenCebola](https://github.com/LucasDpaulo/OpenCebola)
 
