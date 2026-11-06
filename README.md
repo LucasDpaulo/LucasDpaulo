@@ -64,9 +64,9 @@ Conexão entre ferramentas, dados e serviços para automatizar processos e ampli
 
 <table>
 <tr>
-<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" alt="Next.js" /><h3>Next.js</h3><br /><br /></td>
-<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" alt="TypeScript" /><h3>TypeScript</h3><br /><br /></td>
-<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" alt="Python" /><h3>Python</h3><br /><br /></td>
+<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" alt="Next.js" /><h3>Next.js</h3></td>
+<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" alt="TypeScript" /><h3>TypeScript</h3></td>
+<td width="33%" align="center"><br /><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" alt="Python" /><h3>Python</h3></td>
 </tr>
 </table>
 
