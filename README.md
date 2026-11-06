@@ -182,8 +182,8 @@ Tecnologias utilizadas em projetos e estudos, escolhidas conforme os requisitos 
 
 <a id="-em-construção-e-estudo"></a>
 
-<details>
-<summary><h2>🌱 Em construção e estudo</h2></summary>
+<details open>
+<summary><h2>🌱 Estudos</h2></summary>
 
 <table>
 <tr>
