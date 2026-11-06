@@ -225,7 +225,7 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 </details>
 
-<a id="-estatísticas-e-atividade"></a>
+<a id="-Estatísticas"></a>
 
 <details>
 <summary><h2>📊 Estatísticas e atividade</h2></summary>
@@ -249,9 +249,9 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 </details>
 
-<a id="-explore-meu-trabalho"></a>
+<a id="Open Source"></a>
 
-<details>
+<details open>
 <summary><h2>🔎 Explore meu trabalho</h2></summary>
 
 ### 🧅 [OpenCebola](https://github.com/LucasDpaulo/OpenCebola)
@@ -267,9 +267,9 @@ Base em desenvolvimento, com perfis, biblioteca, progresso de reprodução e doc
 
 </details>
 
-<a id="-vamos-conversar"></a>
+<a id="Contato"></a>
 
-<details>
+<details open>
 <summary><h2>🤝 Vamos conversar</h2></summary>
 
 Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
