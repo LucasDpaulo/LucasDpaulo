@@ -70,108 +70,88 @@ Conexão entre ferramentas, dados e serviços para automatizar processos e ampli
 </tr>
 </table>
 
-Tecnologias utilizadas em projetos e estudos, escolhidas conforme os requisitos e a manutenção de cada aplicação.
+Ferramentas que uso em projetos e estudos.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="190"><b>🔤 Linguagens</b></td>
+<td>
 
-<h3>Linguagens</h3>
-
-<img src="https://skillicons.dev/icons?i=ts,python,cs,js&amp;theme=dark&amp;perline=4" alt="TypeScript, Python, C# e JavaScript" width="216" />
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Front-end</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark&amp;perline=4" alt="React, Next.js, HTML, CSS, Tailwind CSS e Vite" width="216" />
-
-<p>
-<img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,python,cs,js&amp;theme=dark" height="36" alt="TypeScript, Python, C# e JavaScript" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="190"><b>🎨 Front-end</b></td>
+<td>
 
-<h3>Back-end e APIs</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark" height="36" alt="React, Next.js, HTML, CSS, Tailwind CSS e Vite" />
+<img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&amp;theme=dark&amp;perline=4" alt=" .NET, Node.js e Express" width="160" />
+</td>
+</tr>
+<tr>
+<td width="190"><b>⚙️ Back-end e APIs</b></td>
+<td>
 
-<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&amp;theme=dark" height="36" alt=".NET, Node.js e Express" />
 <img src="https://img.shields.io/badge/ASP.NET%20Core-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="ASP.NET Core" />
 <img src="https://img.shields.io/badge/Fastify-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Fastify" />
 <img src="https://img.shields.io/badge/Zod-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Zod" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Bancos de dados e persistência</h3>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark&amp;perline=4" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" width="216" />
-
-<p>
-<img src="https://img.shields.io/badge/Drizzle%20ORM-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
-</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="190"><b>🗄️ Banco de dados</b></td>
+<td>
 
-<h3>IA — APIs e frameworks</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark" height="36" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
 
-<p>
+</td>
+</tr>
+<tr>
+<td width="190"><b>🧠 IA</b></td>
+<td>
+
 <img src="https://img.shields.io/badge/OpenAI%20API-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="OpenAI API" />
 <img src="https://img.shields.io/badge/Gemini%20API-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Gemini API" />
 <img src="https://img.shields.io/badge/LangChain-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="LangChain" />
-</p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="190"><b>🤖 Agentes de IA</b></td>
+<td>
 
-<h3>Desenvolvimento com agentes de IA</h3>
-
-<p>
 <img src="https://img.shields.io/badge/Codex-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Codex" />
 <img src="https://img.shields.io/badge/Claude%20Code-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Claude Code" />
-</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="190"><b>📱 Mobile e desktop</b></td>
+<td>
 
-<h3>Aplicações mobile e desktop</h3>
-
-<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark&amp;perline=4" alt="Tauri" width="48" />
-
-<p>
+<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark" height="36" alt="Tauri" />
 <img src="https://img.shields.io/badge/Capacitor-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Capacitor" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Testes e qualidade</h3>
-
-<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark&amp;perline=4" alt="Vitest e Jest" width="104" />
-
-<p>
-<img src="https://img.shields.io/badge/Playwright-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
-</p>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="190"><b>🧪 Testes</b></td>
+<td>
 
-<h3>Versionamento e ambiente</h3>
+<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark" height="36" alt="Vitest e Jest" />
+<img src="https://img.shields.io/badge/Playwright-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark&amp;perline=4" alt="Git, GitHub, Docker e Linux" width="216" />
+</td>
+</tr>
+<tr>
+<td width="190"><b>🔧 Ambiente</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark" height="36" alt="Git, GitHub, Docker e Linux" />
 
 </td>
 </tr>
