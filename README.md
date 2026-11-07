@@ -8,13 +8,13 @@
 <p align="center">
 <a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
 <a href="#-tecnologias"><img src="https://img.shields.io/badge/Stack-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Stack e ferramentas" /></a>
-<a href="#-como-trabalho"><img src="https://img.shields.io/badge/Processo-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Processo" /></a>
 <a href="#-em-construção-e-estudo"><img src="https://img.shields.io/badge/Estudos-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Estudos" /></a>
-<a href="#-estatísticas-e-atividade"><img src="https://img.shields.io/badge/Dados-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Dados" /></a>
-<a href="#-vamos-conversar"><img src="https://img.shields.io/badge/Contato-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Contato" /></a>
+<a href="#-estatisticas"><img src="https://img.shields.io/badge/Dados-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Dados" /></a>
+<a href="#-open-source"><img src="https://img.shields.io/badge/Open%20Source-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Open Source" /></a>
+<a href="#-contato"><img src="https://img.shields.io/badge/Contato-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Contato" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conectar pelo LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-A9DC76?style=for-the-badge&amp;logo=linkedin&amp;logoColor=272833" alt="Conectar pelo LinkedIn" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 💻 Desenvolvimento de Software
+### Desenvolvimento de Software
 
 Criação e evolução de aplicações, sistemas e serviços, com tecnologias adequadas a cada projeto.
 
@@ -36,7 +36,7 @@ Criação e evolução de aplicações, sistemas e serviços, com tecnologias ad
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Inteligência Artificial
+### Inteligência Artificial
 
 Exploração e desenvolvimento de soluções com IA, agentes e integração de modelos em aplicações.
 
@@ -45,7 +45,7 @@ Exploração e desenvolvimento de soluções com IA, agentes e integração de m
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Integrações e Automação
+### Integrações e Automação
 
 Conexão entre ferramentas, dados e serviços para automatizar processos e ampliar funcionalidades.
 
@@ -74,84 +74,103 @@ Ferramentas que uso em projetos e estudos.
 
 <table>
 <tr>
-<td width="190"><b>🔤 Linguagens</b></td>
+<td width="190"><b>Linguagens</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=ts,python,cs,js&amp;theme=dark" height="36" alt="TypeScript, Python, C# e JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-272833?style=for-the-badge" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-272833?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-272833?style=for-the-badge" alt="C#" />
+<img src="https://img.shields.io/badge/JavaScript-272833?style=for-the-badge" alt="JavaScript" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>🎨 Front-end</b></td>
+<td width="190"><b>Front-end</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&amp;theme=dark" height="36" alt="React, Next.js, HTML, CSS, Tailwind CSS e Vite" />
-<img src="https://img.shields.io/badge/Framer%20Motion-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/React-272833?style=for-the-badge" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-272833?style=for-the-badge" alt="Next.js" />
+<img src="https://img.shields.io/badge/HTML-272833?style=for-the-badge" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-272833?style=for-the-badge" alt="CSS" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-272833?style=for-the-badge" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-272833?style=for-the-badge" alt="Vite" />
+<img src="https://img.shields.io/badge/Framer%20Motion-272833?style=for-the-badge" alt="Framer Motion" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>⚙️ Back-end e APIs</b></td>
+<td width="190"><b>Back-end e APIs</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&amp;theme=dark" height="36" alt=".NET, Node.js e Express" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Fastify-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Fastify" />
-<img src="https://img.shields.io/badge/Zod-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="Zod" />
+<img src="https://img.shields.io/badge/.NET-272833?style=for-the-badge" alt=".NET" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-272833?style=for-the-badge" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Node.js-272833?style=for-the-badge" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-272833?style=for-the-badge" alt="Express" />
+<img src="https://img.shields.io/badge/Fastify-272833?style=for-the-badge" alt="Fastify" />
+<img src="https://img.shields.io/badge/Zod-272833?style=for-the-badge" alt="Zod" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>🗄️ Banco de dados</b></td>
+<td width="190"><b>Banco de dados</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,firebase&amp;theme=dark" height="36" alt="PostgreSQL, MongoDB, Redis, Supabase, Prisma e Firebase" />
-<img src="https://img.shields.io/badge/Drizzle%20ORM-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/PostgreSQL-272833?style=for-the-badge" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-272833?style=for-the-badge" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-272833?style=for-the-badge" alt="Redis" />
+<img src="https://img.shields.io/badge/Supabase-272833?style=for-the-badge" alt="Supabase" />
+<img src="https://img.shields.io/badge/Prisma-272833?style=for-the-badge" alt="Prisma" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-272833?style=for-the-badge" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/Firebase-272833?style=for-the-badge" alt="Firebase" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>🧠 IA</b></td>
+<td width="190"><b>IA</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/OpenAI%20API-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Gemini%20API-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Gemini API" />
-<img src="https://img.shields.io/badge/LangChain-A9DC76?style=for-the-badge&amp;labelColor=272833" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI%20API-272833?style=for-the-badge" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Gemini%20API-272833?style=for-the-badge" alt="Gemini API" />
+<img src="https://img.shields.io/badge/LangChain-272833?style=for-the-badge" alt="LangChain" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>🤖 Agentes de IA</b></td>
+<td width="190"><b>Agentes de IA</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/Codex-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Codex" />
-<img src="https://img.shields.io/badge/Claude%20Code-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex-272833?style=for-the-badge" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude%20Code-272833?style=for-the-badge" alt="Claude Code" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>📱 Mobile e desktop</b></td>
+<td width="190"><b>Mobile e desktop</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=tauri&amp;theme=dark" height="36" alt="Tauri" />
-<img src="https://img.shields.io/badge/Capacitor-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Capacitor" />
+<img src="https://img.shields.io/badge/Tauri-272833?style=for-the-badge" alt="Tauri" />
+<img src="https://img.shields.io/badge/Capacitor-272833?style=for-the-badge" alt="Capacitor" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>🧪 Testes</b></td>
+<td width="190"><b>Testes</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=vitest,jest&amp;theme=dark" height="36" alt="Vitest e Jest" />
-<img src="https://img.shields.io/badge/Playwright-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="Playwright" />
+<img src="https://img.shields.io/badge/Vitest-272833?style=for-the-badge" alt="Vitest" />
+<img src="https://img.shields.io/badge/Jest-272833?style=for-the-badge" alt="Jest" />
+<img src="https://img.shields.io/badge/Playwright-272833?style=for-the-badge" alt="Playwright" />
 
 </td>
 </tr>
 <tr>
-<td width="190"><b>🔧 Ambiente</b></td>
+<td width="190"><b>Ambiente</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&amp;theme=dark" height="36" alt="Git, GitHub, Docker e Linux" />
+<img src="https://img.shields.io/badge/Git-272833?style=for-the-badge" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-272833?style=for-the-badge" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-272833?style=for-the-badge" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-272833?style=for-the-badge" alt="Linux" />
 
 </td>
 </tr>
@@ -169,9 +188,9 @@ Ferramentas que uso em projetos e estudos.
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Gnomon-Produto-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Gnomon · Produto" />
+<img src="https://img.shields.io/badge/Gnomon%20%C2%B7%20Produto-272833?style=for-the-badge&amp;labelColor=272833" alt="Gnomon · Produto" />
 
-#### 🚀 Construindo
+#### Construindo
 
 Projeto próprio de software, com atenção à experiência de uso.
 
@@ -180,9 +199,9 @@ Projeto próprio de software, com atenção à experiência de uso.
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/UFPE-IA-66D9EF?style=for-the-badge&amp;labelColor=272833" alt="UFPE · Inteligência artificial" />
+<img src="https://img.shields.io/badge/UFPE%20%C2%B7%20IA-272833?style=for-the-badge&amp;labelColor=272833" alt="UFPE · Inteligência artificial" />
 
-#### 🎓 Aprofundando
+#### Aprofundando
 
 Estudos em IA por meio de disciplina no Cin da UFPE.
 
@@ -191,9 +210,9 @@ Estudos em IA por meio de disciplina no Cin da UFPE.
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Agentes-IA-FF6188?style=for-the-badge&amp;labelColor=272833" alt="Agentes · IA" />
+<img src="https://img.shields.io/badge/Agentes%20%C2%B7%20IA-272833?style=for-the-badge&amp;labelColor=272833" alt="Agentes · IA" />
 
-#### 🤖 Explorando
+#### Explorando
 
 Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
@@ -205,16 +224,16 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 </details>
 
-<a id="-Estatísticas"></a>
+<a id="-estatisticas"></a>
 
 <details>
 <summary><h2>📊 Estatísticas e atividade</h2></summary>
 
-### 🔥 Streak Stats
+### Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=LucasDpaulo&amp;theme=monokai-metallian&amp;hide_border=true&amp;background=272833" width="495" alt="Sequência de contribuições de Lucas no GitHub" />
+<img src="https://streak-stats.demolab.com?user=LucasDpaulo&amp;theme=monokai-metallian&amp;hide_border=true&amp;background=272833&amp;ring=A9DC76&amp;fire=A9DC76&amp;currStreakLabel=A9DC76" width="495" alt="Sequência de contribuições de Lucas no GitHub" />
 
-### 💻 GitHub Profile Stats
+### GitHub Profile Stats
 
 <p>
   <img src="assets/stats.svg" width="49%" alt="Estrelas, commits, pull requests, issues e repositórios com contribuições" />
@@ -223,13 +242,13 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 <sub>Dados atualizados diariamente. Linguagens representam bytes de código público, não nível de experiência. Commits, PRs e issues consideram os últimos 12 meses.</sub>
 
-### ⚡ Atividade pública
+### Atividade pública
 
-<a href="https://github.com/LucasDpaulo?tab=overview"><img src="https://img.shields.io/badge/Atividade-Contribui%C3%A7%C3%B5es-66D9EF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=272833" alt="Ver contribuições e atividade recente" /></a>
+<a href="https://github.com/LucasDpaulo?tab=overview"><img src="https://img.shields.io/badge/Ver%20contribui%C3%A7%C3%B5es-A9DC76?style=for-the-badge&amp;logo=github&amp;logoColor=272833" alt="Ver contribuições e atividade recente" /></a>
 
 </details>
 
-<a id="Open Source"></a>
+<a id="-open-source"></a>
 
 <details open>
 <summary><h2>🔎 Open Source</h2></summary>
@@ -238,32 +257,33 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 <tr>
 <td width="60%" valign="top">
 
-### 🧅 [OpenCebola](https://github.com/LucasDpaulo/OpenCebola)
+### [OpenCebola](https://github.com/LucasDpaulo/OpenCebola)
 
-<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-E6DB74?style=flat-square&amp;labelColor=272833" alt="Status: em desenvolvimento" />
+<img src="https://img.shields.io/badge/Em%20desenvolvimento-272833?style=flat-square" alt="Status: em desenvolvimento" />
 
 Interface de código aberto para o **Stremio**. Rode no seu computador ou hospede a sua própria versão, usando sua conta e seus addons.
 
 </td>
 <td width="40%" valign="top">
 
-#### ✨ O que já tem
+#### O que já tem
 
-- 👤 Perfis
-- 📚 Biblioteca
-- ⏯️ Continuar de onde parou
-- 📖 Guia de instalação
+- Perfis
+- Biblioteca
+- Continuar de onde parou
+- Guia de instalação
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&amp;theme=dark" height="32" alt="Next.js, TypeScript e Supabase" />
-&nbsp;
-<img src="https://img.shields.io/badge/Fastify-E6DB74?style=for-the-badge&amp;labelColor=272833" alt="Fastify" />
+<img src="https://img.shields.io/badge/Next.js-272833?style=for-the-badge" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-272833?style=for-the-badge" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Fastify-272833?style=for-the-badge" alt="Fastify" />
+<img src="https://img.shields.io/badge/Supabase-272833?style=for-the-badge" alt="Supabase" />
 &nbsp;&nbsp;
-<a href="https://github.com/LucasDpaulo/OpenCebola"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-A9DC76?style=for-the-badge&amp;logo=github&amp;logoColor=272833&amp;labelColor=A9DC76" alt="Ver o OpenCebola no GitHub" /></a>
+<a href="https://github.com/LucasDpaulo/OpenCebola"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-A9DC76?style=for-the-badge&amp;logo=github&amp;logoColor=272833" alt="Ver o OpenCebola no GitHub" /></a>
 
 </td>
 </tr>
@@ -272,17 +292,17 @@ Interface de código aberto para o **Stremio**. Rode no seu computador ou hosped
 
 </details>
 
-<a id="Contato"></a>
+<a id="-contato"></a>
 
 <details open>
 <summary><h2>🤝 Vamos conversar</h2></summary>
 
 Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 
-<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20De%20Paulo-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-A9DC76?style=for-the-badge&amp;logo=linkedin&amp;logoColor=272833" alt="LinkedIn" /></a>
 
 <!-- PORTFOLIO: Replace PORTFOLIO_URL and uncomment when the website is available.
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visitar-58A6FF?style=for-the-badge" alt="Visitar portfólio" /></a>
+<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Visitar%20portf%C3%B3lio-A9DC76?style=for-the-badge" alt="Visitar portfólio" /></a>
 -->
 
 </details>
