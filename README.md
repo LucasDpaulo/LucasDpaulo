@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="760" alt="Lucas — Software Developer | AI Engineer. Next.js, Python e agentes de IA." />
-
-<h1>Software Developer | AI Engineer</h1>
-<p>Next.js · Python · AI Agents</p>
+<img src="assets/banner.jpg" width="100%" alt="Lucas De Paulo — AI Engineer · github.com/LucasDpaulo" />
 
 <p align="center">
 <a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
@@ -15,6 +12,8 @@
 </p>
 
 <a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-A9DC76?style=for-the-badge&amp;logo=linkedin&amp;logoColor=272833" alt="Conectar pelo LinkedIn" /></a>
+
+<img src="assets/about.svg" width="760" alt="Lucas De Paulo, Software Developer | AI Engineer. Foco em desenvolvimento full-stack, agentes de IA, Next.js e Python. Construindo o Gnomon e estudando IA na UFPE." />
 
 </div>
 
