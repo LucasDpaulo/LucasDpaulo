@@ -1,6 +1,33 @@
+<img src="assets/banner.jpg" width="100%" alt="Lucas De Paulo — AI Engineer · github.com/LucasDpaulo" />
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h2>Lucas De Paulo</h2>
+
+**Software Developer | AI Engineer**
+
+Entusiasta de tecnologia e curioso pelo open source. Resolvo problemas com soluções práticas e bem arquitetadas, com atenção ao design em cada detalhe. Movido por curiosidade e criatividade.
+
+</td>
+<td width="40%" valign="top">
+
+<br />
+
+<p><b>Foco</b><br />Full-stack · Agentes de IA · Next.js &amp; Python</p>
+
+<p><b>Construindo</b><br />Gnomon</p>
+
+<p><b>Estudando</b><br />IA na UFPE</p>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Lucas De Paulo — AI Engineer · github.com/LucasDpaulo" />
+<i>Fique à vontade para explorar meus repositórios. Nem tudo é público, mas o que está aberto fica à disposição.</i>
 
 <p align="center">
 <a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
@@ -11,9 +38,7 @@
 <a href="#-contato"><img src="https://img.shields.io/badge/Contato-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Contato" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-A9DC76?style=for-the-badge&amp;logo=linkedin&amp;logoColor=272833" alt="Conectar pelo LinkedIn" /></a>
-
-<img src="assets/about.svg" width="760" alt="Lucas De Paulo, Software Developer | AI Engineer. Foco em desenvolvimento full-stack, agentes de IA, Next.js e Python. Construindo o Gnomon e estudando IA na UFPE." />
+<a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-D63A22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conectar pelo LinkedIn" /></a>
 
 </div>
 
