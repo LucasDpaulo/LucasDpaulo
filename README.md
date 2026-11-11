@@ -285,16 +285,18 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 <img src="https://img.shields.io/badge/Em%20desenvolvimento-272833?style=flat-square" alt="Status: em desenvolvimento" />
 
-Interface de código aberto para o **Stremio**. Rode no seu computador ou hospede a sua própria versão, usando sua conta e seus addons.
+Base **Web de código aberto**, nascida do Cebola, meu projeto principal ainda em desenvolvimento. Explore catálogos, veja trailers e desenvolva suas próprias integrações de vídeo.
+
+Disponível sob a **licença MIT** para estudar, adaptar, reutilizar e contribuir. A ideia é para todos — vamos construí-la juntos.
 
 </td>
 <td width="40%" valign="top">
 
 #### O que já tem
 
-- Perfis
-- Biblioteca
-- Continuar de onde parou
+- Catálogo, busca e trailers
+- Perfis e biblioteca
+- Contrato para integrações próprias
 - Guia de instalação
 
 </td>
