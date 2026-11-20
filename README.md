@@ -313,6 +313,42 @@ Base **Web de código aberto**, nascida do Cebola, meu projeto principal ainda e
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### [Sussa](https://github.com/LucasDpaulo/sussa)
+
+<img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20Linux%20e%20Windows-272833?style=flat-square" alt="Status: disponível para Linux e Windows" />
+
+Um **Pomodoro tranquilo** para estudar e trabalhar, com sons e paisagens para ajudar no foco. Funciona no seu computador, **sem conta e sem servidor**: seus dados ficam com você.
+
+</td>
+<td width="40%" valign="top">
+
+#### O que já tem
+
+- Pomodoro configurável
+- Salas de estudos e trabalho
+- Tarefas, notas e estatísticas
+- Sons offline e vídeos de fundo
+- Instalação com um comando
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-272833?style=for-the-badge" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Electron-272833?style=for-the-badge" alt="Electron" />
+<img src="https://img.shields.io/badge/SQLite-272833?style=for-the-badge" alt="SQLite" />
+&nbsp;&nbsp;
+<a href="https://github.com/LucasDpaulo/sussa"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-A9DC76?style=for-the-badge&amp;logo=github&amp;logoColor=272833" alt="Ver o Sussa no GitHub" /></a>
+
+</td>
+</tr>
+</table>
+
 
 </details>
 
