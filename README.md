@@ -272,9 +272,12 @@ Fui responsável pela arquitetura e sua implementação, pelo funcionamento da a
 #### O que foi feito
 
 - Busca e exploração de editais
+- Inscrições abertas em primeiro lugar
+- Login e perfil do candidato
 - Sugestões para cada perfil
 - Lista de editais salvos
 - Acesso direto ao edital oficial
+- Testes automatizados do sistema
 
 </td>
 </tr>
