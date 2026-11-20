@@ -33,6 +33,7 @@ Entusiasta de tecnologia e curioso pelo open source. Resolvo problemas com solu�
 <a href="#-áreas-de-atuação"><img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Atuação" /></a>
 <a href="#-tecnologias"><img src="https://img.shields.io/badge/Stack-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Stack e ferramentas" /></a>
 <a href="#-em-construção-e-estudo"><img src="https://img.shields.io/badge/Estudos-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Estudos" /></a>
+<a href="#-destaque"><img src="https://img.shields.io/badge/Destaque-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Destaque" /></a>
 <a href="#-estatisticas"><img src="https://img.shields.io/badge/Dados-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Dados" /></a>
 <a href="#-open-source"><img src="https://img.shields.io/badge/Open%20Source-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Open Source" /></a>
 <a href="#-contato"><img src="https://img.shields.io/badge/Contato-272833?style=for-the-badge&amp;labelColor=272833&amp;color=272833" alt="Contato" /></a>
@@ -241,6 +242,51 @@ Estudos em IA por meio de disciplina no Cin da UFPE.
 Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 `Agentic Workflows` · `Revisão`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<a id="-destaque"></a>
+
+<details open>
+<summary><h2>⭐ Em destaque</h2></summary>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Nico
+
+<img src="https://img.shields.io/badge/MVP-272833?style=flat-square" alt="MVP" />
+<img src="https://img.shields.io/badge/Projeto%20em%20equipe-272833?style=flat-square" alt="Projeto em equipe" />
+
+**A ideia:** ajudar quem quer fazer **mestrado ou doutorado** a encontrar editais de pós-graduação sem precisar procurar site por site. O Nico reúne os editais em um só lugar e mostra as oportunidades que combinam com cada pessoa.
+
+Criamos o MVP para a apresentação do primeiro projeto da pós-graduação.
+
+</td>
+<td width="40%" valign="top">
+
+#### O que foi feito
+
+- Busca e exploração de editais
+- Sugestões para o perfil de cada pessoa
+- Lista de editais salvos
+- Acesso direto ao edital oficial
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### Equipe
+
+- **Lucas De Paulo** · arquitetura do sistema e sua implementação, funcionamento da aplicação junto ao RAG, validação dos testes e construção do MVP
+- **[João Moizes](https://github.com/joaobmoizes)** · design das telas
+- **[Márcio Matheus](https://github.com/Matheusouza2)** · RAG da IA
 
 </td>
 </tr>
