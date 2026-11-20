@@ -260,12 +260,11 @@ Supervisão, organização e revisão de desenvolvimento com múltiplos agentes.
 
 ### Nico
 
-<img src="https://img.shields.io/badge/MVP-272833?style=flat-square" alt="MVP" />
-<img src="https://img.shields.io/badge/Projeto%20em%20equipe-272833?style=flat-square" alt="Projeto em equipe" />
+<img src="https://img.shields.io/badge/MVP%20%C2%B7%20Projeto%20em%20equipe-272833?style=flat-square" alt="Status: MVP, projeto em equipe" />
 
-**A ideia:** ajudar quem quer fazer **mestrado ou doutorado** a encontrar editais de pós-graduação sem precisar procurar site por site. O Nico reúne os editais em um só lugar e mostra as oportunidades que combinam com cada pessoa.
+Plataforma para quem quer fazer **mestrado ou doutorado**. Reúne editais de pós-graduação em um só lugar e mostra as oportunidades que combinam com cada pessoa. MVP criado para a apresentação do primeiro projeto da pós-graduação.
 
-Criamos o MVP para a apresentação do primeiro projeto da pós-graduação.
+Fui responsável pela arquitetura e sua implementação, pelo funcionamento da aplicação junto ao RAG, pela validação dos testes e pela construção do MVP.
 
 </td>
 <td width="40%" valign="top">
@@ -273,20 +272,18 @@ Criamos o MVP para a apresentação do primeiro projeto da pós-graduação.
 #### O que foi feito
 
 - Busca e exploração de editais
-- Sugestões para o perfil de cada pessoa
+- Sugestões para cada perfil
 - Lista de editais salvos
 - Acesso direto ao edital oficial
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" align="center">
 
-#### Equipe
-
-- **Lucas De Paulo** · arquitetura do sistema e sua implementação, funcionamento da aplicação junto ao RAG, validação dos testes e construção do MVP
-- **[João Moizes](https://github.com/joaobmoizes)** · design das telas
-- **[Márcio Matheus](https://github.com/Matheusouza2)** · RAG da IA
+<a href="https://github.com/LucasDpaulo"><img src="https://img.shields.io/badge/Lucas%20De%20Paulo%20%C2%B7%20Arquitetura-272833?style=for-the-badge" alt="Lucas De Paulo, arquitetura" /></a>
+<a href="https://github.com/joaobmoizes"><img src="https://img.shields.io/badge/Jo%C3%A3o%20Moizes%20%C2%B7%20Design-272833?style=for-the-badge" alt="João Moizes, design das telas" /></a>
+<a href="https://github.com/Matheusouza2"><img src="https://img.shields.io/badge/M%C3%A1rcio%20Matheus%20%C2%B7%20RAG%20da%20IA-272833?style=for-the-badge" alt="Márcio Matheus, RAG da IA" /></a>
 
 </td>
 </tr>
