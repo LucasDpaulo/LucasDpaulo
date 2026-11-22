@@ -40,7 +40,7 @@ Entusiasta de tecnologia e curioso pelo open source. Resolvo problemas com solu�
 </p>
 
 <a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-D63A22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conectar pelo LinkedIn" /></a>
-<a href="https://lucasdepaulo.vercel.app"><img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-D63A22?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Ver portfólio" /></a>
+<a href="https://lucasdepaulo.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-D63A22?style=for-the-badge" alt="Portfólio" /></a>
 
 </div>
 
@@ -407,7 +407,7 @@ Um **Pomodoro tranquilo** para estudar e trabalhar, com sons e paisagens para aj
 Para conversar sobre desenvolvimento de software, agentes de IA ou projetos:
 
 <a href="https://www.linkedin.com/in/lucasbarbosadev42/"><img src="https://img.shields.io/badge/LinkedIn-A9DC76?style=for-the-badge&amp;logo=linkedin&amp;logoColor=272833" alt="LinkedIn" /></a>
-<a href="https://lucasdepaulo.vercel.app"><img src="https://img.shields.io/badge/Visitar%20portf%C3%B3lio-A9DC76?style=for-the-badge&amp;logo=vercel&amp;logoColor=272833" alt="Visitar portfólio" /></a>
+<a href="https://lucasdepaulo.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-A9DC76?style=for-the-badge" alt="Portfólio" /></a>
 
 </details>
 
